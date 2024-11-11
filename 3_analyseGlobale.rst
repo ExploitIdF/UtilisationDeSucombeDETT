@@ -11,7 +11,7 @@ Pour chaque prestation, on définit un type parmi la liste suivante :
 * Urgence
 
 .. csv-table::
-   :header: Type,Montants engagés,Montants constatés
+   :header: Type\k€ HT,Montants engagés,Montants constatés
    :widths: 20, 20,20
    :width: 60%
 
