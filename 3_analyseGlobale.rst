@@ -16,7 +16,7 @@ Pour chaque prestation, on définit un type parmi la liste suivante :
 On a calculé sur la période 2020-2024 les montants moyens engagés et les montants moyens constatés, par type de prestation.
 
 .. csv-table::
-   :header: Type\k€ HT,Montants engagés,Montants constatés
+   :header: Type \\k€ HT,Montants engagés,Montants constatés
    :widths: 20, 20,20
    :width: 60%
 
@@ -37,7 +37,7 @@ En se limitant aux prestations qualifiées dans le type *préventif*, on constat
 
 
 .. csv-table::
-   :header: Année\k€ HT,Montants engagés,Montants constatés
+   :header: Année \\k€ HT,Montants engagés,Montants constatés
    :widths: 20, 20,20
    :width: 60%
 
