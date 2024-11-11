@@ -6,7 +6,6 @@ Dernière mise à jour : novembre 2024 (création mars 2024)
    :hidden:
    :maxdepth: 3
 
-   champsPresta
    1_prestations
    2_commandes
    4_preventive
@@ -24,20 +23,6 @@ Utilité des analyses envisagées
 *******************************************
 L'exploitation des données permet de fournir des analyses pertinentes pour la compréhension de l'activité du département DETT, en particulier sur la maintenance des équipements.
 Elle éclaire aussi sur la manière dont l'application Sucombe est utilisée par les agents et permet de formuler des actions d'amélioration à ce niveau.
-
-Table des prestations
-*******************************************
-La première table analysée est celle des **prestations** car elle contient des informations assez riches sur l'ensemble des commandes.
-Le tableau ci-dessous fournit les nombres de prestations saisies dans Sucombe sur la période 2020-23.
-
-.. csv-table:: Nombre de prestations saisies par Service et par an depuis 2020
-   :file: _static/servAn.csv
-   :widths: 20,  20, 20, 20, 20
-   :header-rows: 1
-
-Les :doc:`champs de cette table <champsPresta>` sont les suivants :
-``'Action', 'Libellé', 'Identifiant', 'Date création', 'Numméro OT','Ligne d'équipement', 'Type', 'Lieu','Date prév.', 
-'Montant prestation HT', 'Montant Constaté HT', 'Marché', 'Agent', 'Service', 'État'``
 
 
 
