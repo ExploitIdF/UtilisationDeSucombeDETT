@@ -38,8 +38,12 @@ On a calculé sur la période 2020-2024 les montants moyens engagés et les mont
     Total,25799,17613
 
 Les qualifications selon la typologie ne sont pas uniformes et peuvent varier selon les marchés et les agents qui saisissent les données dans Sucombe.
+Par exemple, les prestations de maintien en condition opérationnelle (MCO) des marchés d'UIRC sont parfois classés dans le type Préventif, 
+mais le plus souvent, elles ne le sont pas.
 
-Par exemple, les prestations de maintien en condition opérationnelle (MCO) des marchés d'UIRC sont parfois classés dans le type Préventif, mais le plus souvent ne le sont pas.
+La typologie ne permet pas d'identifier les prestations indispensables et celles sur lesquelles il serait possible de faire des impasses, sans atteindre la 
+continuité du service. Une typologie complémentaire pourrait être élaborée sur les **numéros de prix**. La base de donnée permettrait alors de calculer les montants correspondant à cette nouvelle typologie.
+
 
 Focus sur les préventifs
 *****************************
