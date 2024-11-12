@@ -11,6 +11,22 @@ On pourra ajouter le calcul des montants constatés définitivement avant le 1er
 
 Pour les 5 dernières années, sur 25 M€ d'engagements annuels enregistrés dans Sucombe, 8M€ ne sont pas constatés.
 
+Montants par axe budgétaire
+*******************************
+
+.. csv-table::
+   :header: Année \\k€ HT,AFITF engagés,AFITF  constatés, LFI engagés,LFI  constatés
+   :widths: 20, 20,20, 20,20
+   :width: 80%
+
+      2020,12725,6156,16593,12241
+      2021,10929,7045,17381,12094
+      2022,9432,5169,16179,12556
+      2023,12871,7379,16740,12985
+      2024,2904,2067,13327,10504
+
+
+
 Montants par type de prestation
 *************************************
 Pour chaque prestation, on définit un type parmi la liste suivante :
