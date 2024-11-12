@@ -13,7 +13,7 @@ Pour les 5 dernières années, sur 25 M€ d'engagements annuels enregistrés da
 
 Montants par axe budgétaire
 *******************************
-On distingue 2 grand axes : 
+On distingue 2 grands axes : 
 
 * AFITF (Principalement les investissements de renouvellement)
 * LFI (Principalement le fonctionnement)
@@ -116,14 +116,14 @@ Les montants correspondants sont classés avec les commandes simples.
       Vidéo,409,366
       Total,5507,4723
 
-Montants par **Lieux**
+Montants par Lieux
 ****************************
-Sucombe comporte un champ **Lieu** qui prend 26 valeurs qui sont le plus souvent des (groupes de) tunnels.
+Sucombe comporte un champ **Lieu** qui prend 26 valeurs lesquelles sont, le plus souvent, des (groupes de) tunnels.
 
 Les dépenses de gestion de trafic ou qui ne peuvent pas être affectées à un tunnel particulier sont associées aux *lieux*
-PCTT, SIRIUS, SIREDO &Tous tunnels.
+PCTT, SIRIUS, SIREDO  ou encore Tous tunnels.
 
-Le tableau suivant donne les valeurs moyennes sur les 5 dernières années.
+Le tableau suivant donne les valeurs moyennes des montants, sur les 5 dernières années.
 
 .. csv-table::
    :header: Lieu \\ k€ HT,Montants engagés,Montants constatés
