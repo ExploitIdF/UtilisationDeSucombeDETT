@@ -13,6 +13,10 @@ Pour les 5 dernières années, sur 25 M€ d'engagements annuels enregistrés da
 
 Montants par axe budgétaire
 *******************************
+On distingue 2 grand axes : 
+
+* AFITF (Principalement les investissements de renouvellement)
+* LFI (Principalement le fonctionnement)
 
 .. csv-table::
    :header: Année \\k€ HT,AFITF engagés,AFITF  constatés, LFI engagés,LFI  constatés
@@ -24,7 +28,6 @@ Montants par axe budgétaire
       2022,9432,5169,16179,12556
       2023,12871,7379,16740,12985
       2024,2904,2067,13327,10504
-
 
 
 Montants par type de prestation
