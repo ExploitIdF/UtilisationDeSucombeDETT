@@ -116,9 +116,45 @@ Les montants correspondants sont classés avec les commandes simples.
       Vidéo,409,366
       Total,5507,4723
 
+Montants par **Lieux**
+****************************
+Sucombe comporte un champ **Lieu** qui prend 26 valeurs qui sont le plus souvent des (groupes de) tunnels.
 
+Les dépenses de gestion de trafic ou qui ne peuvent pas être affectées à un tunnel particulier sont associées aux *lieux*
+PCTT, SIRIUS, SIREDO &Tous tunnels.
 
+Le tableau suivant donne les valeurs moyennes sur les 5 dernières années.
 
+.. csv-table::
+   :header: Lieu \\ k€ HT,Montants engagés,Montants constatés
+   :widths: 20, 20,20
+   :width: 60%
+
+      Ambroise PARE,330,268
+      Antony,201,185
+      Bellerive,362,326
+      Bicêtre,502,445
+      Bobigny-Lumen-Norton,817,698
+      Boissy-Saint-Léger,70,65
+      Champigny,468,368
+      Chennevières,90,79
+      Fontenay le Fleury,67,51
+      Fresnes,112,86
+      Italie,77,59
+      La Courneuve,113,102
+      Landy,723,611
+      Nanterre / La Défense,2333,1972
+      Neuilly,149,133
+      Nogent,905,712
+      Orly,181,148
+      PCTT,1368,1050
+      SIREDO,241,131
+      SIRIUS,8863,5377
+      Saint Cloud,268,246
+      Sévines,142,132
+      Taverny,133,122
+      Thiais,260,204
+      Tous tunnels,7017,4053
 
 
 
