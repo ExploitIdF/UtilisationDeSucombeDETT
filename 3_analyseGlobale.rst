@@ -47,8 +47,7 @@ continuité du service. Une typologie complémentaire pourrait être élaborée 
 
 Focus sur les préventifs
 *****************************
-En se limitant aux prestations qualifiées dans le type *préventif*, on constate de fortes variations annuelles.
-
+En se limitant aux prestations qualifiées dans le type *Préventif*, on constate de moins fortes variations annuelles que pour les autres types. En revanche, les écarts entre montants engagés et constatés ne concernent qu'un nombre limité de marchés.
 
 .. csv-table::
    :header: Année \\k€ HT,Montants engagés,Montants constatés
@@ -64,8 +63,8 @@ En se limitant aux prestations qualifiées dans le type *préventif*, on constat
 
 Montants par marché
 ***********************
-On a regroupé les marchés quand il s'agit du renouvellement d'un marché, sur le même périmètre.  
-Dans certains cas, lorsque le renouvellement du marché a créé une période sans marché, des commandes du périmètre ont été passées de gré à gré. 
+On a regroupé des marchés quand il s'agit du renouvellement d'un marché, sur le même périmètre.  
+Dans certains cas, lorsque le renouvellement du marché a créé une période *sans marché*, des commandes du périmètre ont été passées de gré à gré. 
 Les montants correspondants sont classés avec les commandes simples.
 
 .. csv-table::
