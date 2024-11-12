@@ -66,6 +66,9 @@ continuité du service. Une typologie complémentaire pourrait être élaborée 
 
 Focus sur les préventifs
 *****************************
+Décomposition par année
+============================
+
 En se limitant aux prestations qualifiées dans le type *Préventif*, on constate de moins fortes variations annuelles que pour les autres types. En revanche, les écarts entre montants engagés et constatés ne concernent qu'un nombre limité de marchés.
 
 .. csv-table::
@@ -80,8 +83,8 @@ En se limitant aux prestations qualifiées dans le type *Préventif*, on constat
       2024,5621,4971
       Moyenne,5507,4723
 
-Montants par marché
-***********************
+Décomposition  par marché
+======================
 On a regroupé des marchés quand il s'agit du renouvellement d'un marché, sur le même périmètre.  
 Dans certains cas, lorsque le renouvellement du marché a créé une période *sans marché*, des commandes du périmètre ont été passées de gré à gré. 
 Les montants correspondants sont classés avec les commandes simples.
@@ -116,8 +119,8 @@ Les montants correspondants sont classés avec les commandes simples.
       Vidéo,409,366
       Total,5507,4723
 
-Montants par Lieux
-****************************
+Montants (tous types) par Lieux
+************************************
 Sucombe comporte un champ **Lieu** qui prend 26 valeurs lesquelles sont, le plus souvent, des (groupes de) tunnels.
 
 Les dépenses de gestion de trafic ou qui ne peuvent pas être affectées à un tunnel particulier sont associées aux *lieux*
