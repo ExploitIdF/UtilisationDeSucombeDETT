@@ -4,7 +4,7 @@ La base Sucombe contient une table des fournisseurs qui permet de calculer les m
 La même entreprise est parfois représentée par plusieurs lignes de la table, avec des noms proches et parfois même identiques (SATELEC).
 
 .. csv-table::
-   :header: Fournisseur, Index Fournisseur ,Montants engagés (k€ HT) 
+   :header: Fournisseur, Index Fournisseur ,Montants engagés <br> (k€ HT) 
    :widths: 20, 20,10
    :width: 60%
 
