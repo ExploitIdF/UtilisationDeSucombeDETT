@@ -49,6 +49,12 @@ Pour chaque prestation, on définit un type parmi la liste suivante :
 * Prestations intellectuelles
 * Urgence
 
+:doc:`Preventif<31_preventif>`_
+
+`Preventif<31_preventif>`_
+
+
+
 On a calculé sur la période 2020-2024 les montants moyens engagés et les montants moyens constatés, par type de prestation.
 
 .. csv-table::
