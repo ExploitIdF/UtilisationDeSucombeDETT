@@ -43,15 +43,13 @@ Montants par type de prestation
 Pour chaque prestation, on définit un type parmi la liste suivante :
 
 * Curatif
-* :doc:`Preventif<31_preventif>`_
+* :doc:`Preventif<31_preventif>`
 * Fourniture
 * Evolutif
 * Prestations intellectuelles
 * Urgence
 
 :doc:`Preventif<31_preventif>`
-
-`Preventif<31_preventif.rst>`_
 
 
 
