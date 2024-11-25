@@ -1,5 +1,7 @@
 Traitements pour envoyer les données sur Google Cloud
 *******************************************************
+24/7 Depuis cette date, la mise à jour des données n'est plus possible car Nicolas a perdu l'accès à la base Sucombe.
+
 Cette page vise à documenter les traitements des données issues de la base Sucombe avec les outils de Google Cloud.
 
 Etape 1 : Extraction des tables Sucombe avec Windev
