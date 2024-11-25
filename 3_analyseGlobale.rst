@@ -49,9 +49,9 @@ Pour chaque prestation, on définit un type parmi la liste suivante :
 * Prestations intellectuelles
 * Urgence
 
-:doc:`Preventif<31_preventif>`_
+:doc:`Preventif<31_preventif>`
 
-`Preventif<31_preventif>`_
+`Preventif<31_preventif.rst>`_
 
 
 
