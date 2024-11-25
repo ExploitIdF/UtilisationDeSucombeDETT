@@ -1,6 +1,7 @@
 Analyses budgétaires par type, par marché et par an
 #######################################################
-Sucombe enregistre les commandes, les prestations et les constats dans une base de données que l'on a pu exploiter (11/2024).
+Sucombe enregistre les commandes, les prestations et les constats dans une base de données que l'on a pu exploiter 
+(Export du 7/11/2024 qui pourrait être mis à jour en tant que de besoin).
 
 .. toctree::
    :hidden:
@@ -11,13 +12,15 @@ Sucombe enregistre les commandes, les prestations et les constats dans une base 
 
 
 Dans les montants des constats présentés ci-dessous, l'année à laquelle un constat est associé est l'année d'engagement budgétaire de la prestation.
-Une partie des constats sont des payements qui interviennent les années suivantes. Pour l'année 2024, tout particulièrement, les montants présentés sont les valeurs connues au 7/11/2024 et non pas les valeurs définitives.
+Une partie des constats sont des payements qui interviennent les années suivantes. 
+Pour l'année 2024, tout particulièrement, les montants présentés sont les valeurs connues au 7/11/2024 et non pas les valeurs définitives.
 
-Il faut aussi savoir que les engagements totaux considérés ne tiennent pas compte des **désengagements** qui peuvent avoir lieu quand une prestation est constatée *définitivement* et assez tôt, pour un montant inférieur à l'engagement. En effet, les désengagements ne sont pas gérés dans Sucombe.
+Il faut aussi savoir que les engagements totaux considérés ne tiennent pas compte des **désengagements** qui peuvent avoir lieu quand une prestation est constatée *définitivement* et assez tôt, pour un montant inférieur à l'engagement. 
+En effet, les désengagements faits dans Chorus ne sont pas répercutés dans Sucombe.
 
 On pourra ajouter le calcul des montants constatés définitivement avant le 1er novembre, si cette date permet encore d'obtenir les désengagements et de réengager les AE ainsi récupérées. A défaut de fournir les désengagements effectifs, cela permettra de mesurer avec Sucombe un potentiel.
 
-Pour les 5 dernières années, sur 25 M€ d'engagements annuels enregistrés dans Sucombe, 8M€ ne sont pas constatés.
+Pour les 5 dernières années, sur 25 M€ d'engagements annuels enregistrés dans Sucombe, 8M€ n'ont pas été constatés.
 
 Montants par axe budgétaire
 *******************************
@@ -49,10 +52,6 @@ Pour chaque prestation, on définit un type parmi la liste suivante :
 * Prestations intellectuelles
 * Urgence
 
-:doc:`Preventif<31_preventif>`
-
-
-
 On a calculé sur la période 2020-2024 les montants moyens engagés et les montants moyens constatés, par type de prestation.
 
 .. csv-table::
@@ -68,13 +67,14 @@ On a calculé sur la période 2020-2024 les montants moyens engagés et les mont
     Urgence,234,164
     Total,25799,17613
 
-Les qualifications selon la typologie ne sont pas uniformes et peuvent varier selon les marchés et les agents qui saisissent les données dans Sucombe.
+Les qualifications selon la typologie ne sont pas uniformes, ils varient selon les marchés et les agents qui saisissent les données dans Sucombe.
 Par exemple, les prestations de maintien en condition opérationnelle (MCO) des marchés d'UIRC sont parfois classés dans le type Préventif, 
 mais le plus souvent, elles ne le sont pas.
 
 La typologie ne permet pas d'identifier les prestations indispensables et celles sur lesquelles il serait possible de faire des impasses, sans atteindre la 
-continuité du service. Une typologie complémentaire pourrait être élaborée sur les **numéros de prix**. La base de donnée permettrait alors de calculer les montants correspondant à cette nouvelle typologie.
-
+continuité du service. 
+Une typologie complémentaire pourrait être élaborée en s'appuyant sur les **numéros de prix**. 
+La base de donnée permettrait alors de calculer les montants correspondant à cette nouvelle typologie.
 
 Montants (tous types) par Lieux
 ************************************
