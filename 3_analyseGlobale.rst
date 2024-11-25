@@ -6,8 +6,9 @@ Sucombe enregistre les commandes, les prestations et les constats dans une base 
    :hidden:
    :maxdepth: 3
 
-   38_fournisseurs
    31_preventif
+   38_fournisseurs
+
 
 Dans les montants des constats présentés ci-dessous, l'année à laquelle un constat est associé est l'année d'engagement budgétaire de la prestation.
 Une partie des constats sont des payements qui interviennent les années suivantes. Pour l'année 2024, tout particulièrement, les montants présentés sont les valeurs connues au 7/11/2024 et non pas les valeurs définitives.
@@ -42,7 +43,7 @@ Montants par type de prestation
 Pour chaque prestation, on définit un type parmi la liste suivante :
 
 * Curatif
-* Preventif
+* `Preventif<31_preventif>`_
 * Fourniture
 * Evolutif
 * Prestations intellectuelles
