@@ -78,6 +78,12 @@ La base de donnée permettrait alors de calculer les montants correspondant à c
 
 Montants (tous types) par Lieux
 ************************************
+Sucombe comporte un champ **Lieu** qui prend 26 valeurs, lesquelles sont, le plus souvent, des (groupes de) tunnels.
+
+Les dépenses liées à la gestion du trafic ou qui ne peuvent pas être affectées à un tunnel particulier sont associées aux *lieux*
+PCTT, SIRIUS, SIREDO  ou encore *Tous tunnels*.
+
+
 Le tableau suivant donne les valeurs moyennes des montants globaux, sur les 5 dernières années.
 
 .. csv-table::
