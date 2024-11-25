@@ -56,10 +56,6 @@ Les montants correspondants sont classés avec les commandes simples.
 
 Décomposition  par lieu
 ============================
-Sucombe comporte un champ **Lieu** qui prend 26 valeurs lesquelles sont, le plus souvent, des (groupes de) tunnels.
-
-Les dépenses de gestion de trafic ou qui ne peuvent pas être affectées à un tunnel particulier sont associées aux *lieux*
-PCTT, SIRIUS, SIREDO  ou encore Tous tunnels.
 
 Le tableau suivant donne les valeurs moyennes des montants de préventifs, sur les 5 dernières années.
 
