@@ -18,7 +18,7 @@ En mars 2024, on a fait une :doc:`analyse des données 2023 <21_commandes2023>`.
 
 Utilisation du Rep D pour le suivi budgétaire
 **************************************************
-On utilise le Répertoire D pour calculés les montants engagés par ligne budgétaire et par unité, mais cela comporte quelques anomalies que l'on a besoin de rectifier.
+On utilise le Répertoire D pour calculer les montants engagés par ligne budgétaire et par unité, mais cela comporte quelques anomalies que l'on a besoin de rectifier.
 
 Commandes abandonnées
 ========================
