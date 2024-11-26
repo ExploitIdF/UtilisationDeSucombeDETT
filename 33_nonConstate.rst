@@ -5,6 +5,9 @@ On a observé qu'il y avait de gros écarts entre les engagements et les constat
 Pour mieux comprendre ces écarts, on a fait une analyse, sur les engagements de l'année 2023,
 par axe budgétaire et par marché.
 
+Cette analyse ne tient pas compte des désengagements car ils ne sont pas renseignés dans Sucombe.
+
+
 AFITF
 *******
 Principaux marché pour les montants AFITF engagés mais non constatés.
