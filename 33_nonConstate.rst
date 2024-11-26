@@ -10,7 +10,7 @@ Cette analyse ne tient pas compte des désengagements car ils ne sont pas rensei
 
 AFITF
 *******
-Principaux marché pour les montants AFITF engagés mais non constatés.
+Principaux marchés pour les montants AFITF engagés mais non constatés.
 
 La table ci-dessous fait apparaitre les constats réalisés en 2023 et en 2024.
 
@@ -33,7 +33,7 @@ La table ci-dessous fait apparaitre les constats réalisés en 2023 et en 2024.
 
 LFI
 ****
-Principaux marché pour les montants LFI engagés mais non constatés.
+Principaux marchés pour les montants LFI engagés mais non constatés.
 
 .. csv-table::
    :header: Marchés \\k€ HT,Engagés 2023,Constatés 23,Constatés 24, Non constaté
