@@ -51,5 +51,30 @@ Principaux marchés pour les montants LFI engagés mais non constatés.
       SignaDyn,1817,819,194,804
       AMO Tunnel,1344,372,106,866
 
+Prestations constatés à zéro ou sans constat
+************************************************
+
+.. csv-table::
+   :header: Marchés \\k€ HT,Constaté à Zéro,absence de constat,Total engagé
+   :widths: 20, 20,20, 20
+   :width: 80%
+
+      marAg,ConstZéro,ConstNull,Total
+      Eclairage,10.4,0.5,10.9
+      ContRéglementaire,6.0,10.5,16.5
+      AutoEvacuation,9.0,18.0,27.0
+      Batiment,0.9,28.5,29.4
+      Propreté,22.8,6.8,29.6
+      Vidéo,43.0,0.0,43.0
+      ComSimple,50.1,9.6,59.7
+      SignaDyn,33.1,37.0,70.1
+      Pompage,47.4,31.5,78.9
+      MEC,45.1,47.9,93.0
+      Détection,108.2,0.0,108.2
+      MERASS,110.2,0.0,110.2
+      MIISST,7.5,104.9,112.4
+      MNAT,112.6,2.2,114.8
+
+
 
 
