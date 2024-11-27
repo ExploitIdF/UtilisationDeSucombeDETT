@@ -30,7 +30,7 @@ Montant engagés par lieu en 2024
 On fait un croisement des montants par type et par lieu.
 
 .. csv-table::
-   :header: Lieu \\k€ HT,Total,C01 Second œuvre,C02 Plomberie,C04 Vitrage,C05 Serrurerie,C07 Toiture,C08 Electricité,Fourniture,Préventif Issues et Niches
+   :header: Lieu \\k€ HT,Total,C01 Second œuvre,C02 Plomb.,C04 Vitrage,C05 Serrurerie,C07 Toiture,C08 Elect.,Fourn.,Prév. Issues et Niches
    :width: 100%
 
       Bobigny-Lumen-Norton,36,14,0,0,1,0,0,9,10
