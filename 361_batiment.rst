@@ -60,10 +60,12 @@ On fait un croisement des montants par type et par lieu.
 Date prévisionnelle
 ***********************
 Pour des prestations correspondant aux 2/3 des montants de ce marché en 2024, la date prévisionnelle n'est pas renseignée dans Sucombe.  
-
 Quand la date prévisionnelle est renseignée, elle n'est toujours cohérente. 
-Cela montre que les PCTT ne ce soucient pas de la qualité de l'information saisie pour ce champ.
 
+Cela montre que les PCTT ne se soucient pas beaucoup de la qualité de l'information saisie sur  la date prévisionnelle.
+Il est souhaitable de faire évoluer les pratiques.
+
+Lors de la commande, le TDM et l'entreprise devraient identifier la date souhaitable de la prestation, en particulier quand il s'agit d'une date fermeture nocturne.
 
 
 
