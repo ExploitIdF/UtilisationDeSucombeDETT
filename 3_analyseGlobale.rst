@@ -9,6 +9,8 @@ Sucombe enregistre les commandes, les prestations et les constats dans une base 
 
    31_preventif
    33_nonConstate
+
+   36_bilans
    38_fournisseurs
    39_divers
 
