@@ -68,6 +68,19 @@ Il est souhaitable de faire évoluer les pratiques.
 Lors de la commande, le TDM et l'entreprise devraient identifier la date souhaitable de la prestation, en particulier quand il s'agit d'une date fermeture nocturne.
 
 
+Date de fin des travaux et date de constat
+*******************************************
+Les dates de fin des travaux et les dates de constats sont systématiquement renseignées dans Sucombe.
+
+Dans plus de 90% des cas, le constat intervient moins d'un mois après la date de fin des travaux qui est renseignée.
+
+Dans plus de 70% des cas, les dates de constats et de fin des travaux sont les mêmes. 
+On peut supposer que la date de fin des travaux n'est pas renseignée avec précision.
+Cette date devrait correspondre à celle qui est indiquée dans le rapport d'execution fourni par l'entreprise.
+
+
+
+
 
 
 
