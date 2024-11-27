@@ -20,6 +20,7 @@ La table suivante indique les montants engagés et constatés par type de prix, 
     C08 Electricité,5.5,5.5,8.6,8.6
     Fourniture,203.3,197.5,288.9,278.5
     Préventif Issues et Niches,104.0,103.7,105.9,105.6
+    Total,563.9,556.0,573.5,559.3
 
 Pour ce marché, le taux de constat est particulièrement élevé.
 
