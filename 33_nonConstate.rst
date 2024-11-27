@@ -74,6 +74,7 @@ Prestations constatés à zéro ou sans constat
       MERASS,110.2,0.0,110.2
       MIISST,7.5,104.9,112.4
       MNAT,112.6,2.2,114.8
+      Total,606.3,297.4,903.7
 
 
 
