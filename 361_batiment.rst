@@ -22,7 +22,36 @@ La table suivante indique les montants engagés et constatés par type de prix, 
     Préventif Issues et Niches,104.0,103.7,105.9,105.6
     Total,563.9,556.0,573.5,559.3
 
-Pour ce marché, le taux de constat est particulièrement élevé.
+Pour ce marché, le taux de constat est particulièrement élevé. 
+Il n'y a donc pas lieu d'analyser plus en détail la répartition des écarts entre les montants commandés et constatés.
+
+.. csv-table::
+   :header: Lieu \\k€ HT,Total,C01 Second œuvre,C02 Plomberie,C04 Vitrage,C05 Serrurerie,C07 Toiture,C08 Electricité,Fourniture,Préventif Issues et Niches
+
+      Bobigny-Lumen-Norton,36,14,0,0,1,0,0,9,10
+      La Courneuve,1,0,0,0,0,0,0,0,1
+      Landy,9,0,0,0,0,0,1,1,6
+      Taverny,1,0,0,0,0,0,0,0,1
+      Boissy-Saint-Léger,1,0,0,0,0,0,0,0,1
+      Champigny,7,0,0,0,0,0,0,0,6
+      Nogent,38,6,0,3,4,0,0,12,12
+      Thiais,19,0,0,0,4,0,0,5,10
+      Antony,87,3,0,0,20,0,0,57,5
+      Bicêtre,56,1,0,0,10,0,0,34,9
+      Fresnes,2,0,0,0,0,0,0,1,0
+      Italie,5,0,0,0,0,0,0,5,0
+      Orly,15,0,0,0,0,0,0,10,4
+      Ambroise PARE,75,14,0,0,10,0,6,35,8
+      Bellerive,14,0,0,0,3,0,0,7,3
+      Chennevières,0,0,0,0,0,0,0,0,0
+      Fontenay le Fleury,1,0,0,0,0,0,0,0,1
+      Nanterre / La Défense,35,6,0,0,12,0,0,5,10
+      Neuilly,2,0,0,0,2,0,0,0,0
+      Saint Cloud,8,3,0,0,1,0,0,0,2
+      Sévines,1,0,0,0,0,0,0,0,0
+      PCTT,28,2,2,0,1,1,0,18,1
+      SIRIUS,121,3,0,0,28,0,0,81,6
+
 
 
 
