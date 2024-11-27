@@ -55,8 +55,8 @@ Prestations constatés à zéro ou sans constat
 ************************************************
 Sur les commandes de l'année 2023, Sucombe indique que :
 
-* 606 k€ ont été constatés à zéro	
-* 297 k€ n'ont fait l'objet d'aucun constat avant le mois de novembre 2024.
+* 600 k€ ont été constatés à zéro (340 en 2023 & 260 en 2024)
+* 300 k€ n'ont fait l'objet d'aucun constat avant le mois de novembre 2024.
 
 La table ci-dessous indique la décomposition de ces montants par marché.
 
