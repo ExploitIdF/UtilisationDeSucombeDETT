@@ -55,10 +55,10 @@ Prestations constatés à zéro ou sans constat
 ************************************************
 Sur les commandes de l'année 2023, Sucombe indique que :
 
-* 606 k€ on été constaté à zéro	
+* 606 k€ ont été constatés à zéro	
 * 297 k€ n'ont fait l'objet d'aucun constat avant le mois de novembre 2024.
 
-La table ci-dessous indique la décomposition par marché.
+La table ci-dessous indique la décomposition de ces montants par marché.
 
 .. csv-table::
    :header: Marchés \\k€ HT,Constaté à Zéro,absence de constat,Total engagé
