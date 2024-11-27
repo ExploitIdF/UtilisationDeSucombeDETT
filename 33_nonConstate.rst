@@ -53,13 +53,18 @@ Principaux marchés pour les montants LFI engagés mais non constatés.
 
 Prestations constatés à zéro ou sans constat
 ************************************************
+Sur les commandes de l'année 2023, Sucombe indique que :
+
+* 606 k€ on été constaté à zéro	
+* 297 k€ n'ont fait l'objet d'aucun constat avant le mois de novembre 2024.
+
+La table ci-dessous indique la décomposition par marché.
 
 .. csv-table::
    :header: Marchés \\k€ HT,Constaté à Zéro,absence de constat,Total engagé
    :widths: 20, 20,20, 20
    :width: 80%
 
-      marAg,ConstZéro,ConstNull,Total
       Eclairage,10.4,0.5,10.9
       ContRéglementaire,6.0,10.5,16.5
       AutoEvacuation,9.0,18.0,27.0
