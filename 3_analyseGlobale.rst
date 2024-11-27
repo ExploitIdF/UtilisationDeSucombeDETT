@@ -10,7 +10,7 @@ Sucombe enregistre les commandes, les prestations et les constats dans une base 
    31_preventif
    33_nonConstate
    38_fournisseurs
-
+   39_divers
 
 Dans les montants des constats présentés ci-dessous, l'année à laquelle un constat est associé est l'année d'engagement budgétaire de la prestation.
 Une partie des constats sont des payements qui interviennent les années suivantes. 
