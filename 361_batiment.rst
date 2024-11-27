@@ -1,9 +1,9 @@
 Bilan 2023-2024 du marché Batiment
 ########################################
 
-Typologies des prix
+Typologie des prix
 **********************
-On utilise la typologie du BPU (bordereau des prix unitaires).
+On utilise la typologie déjà présente dans le BPU (bordereau des prix unitaires).
 
 La table suivante indique les montants engagés et constatés par type de prix, en 2023 et 2024.
 
@@ -56,6 +56,27 @@ On fait un croisement des montants par type et par lieu.
       Sévines,1,0,0,0,0,0,0,0,0
       PCTT,28,2,2,0,1,1,0,18,1
       SIRIUS,121,3,0,0,28,0,0,81,6
+
+Date prévisionnelle
+***********************
+Pour des prestations correspondant aux 2/3 des montants de ce marché en 2024, la date prévisionnelle n'est pas renseignée dans Sucombe.  
+
+Quand la date prévisionnelle est renseignée, elle n'est toujours cohérente. 
+Cela montre que les PCTT ne ce soucient pas de la qualité de l'information saisie pour ce champ.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
