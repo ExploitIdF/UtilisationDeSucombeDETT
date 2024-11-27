@@ -25,6 +25,10 @@ La table suivante indique les montants engagés et constatés par type de prix, 
 Pour ce marché, le taux de constat est particulièrement élevé. 
 Il n'y a donc pas lieu d'analyser plus en détail la répartition des écarts entre les montants commandés et constatés.
 
+Montant engagés par lieu en 2024
+*********************************
+On fait un croisement des montants par type et par lieu.
+
 .. csv-table::
    :header: Lieu \\k€ HT,Total,C01 Second œuvre,C02 Plomberie,C04 Vitrage,C05 Serrurerie,C07 Toiture,C08 Electricité,Fourniture,Préventif Issues et Niches
 
