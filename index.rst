@@ -7,7 +7,6 @@ Dernière mise à jour : novembre 2024 (création mars 2024)
    :maxdepth: 3
 
    1_prestations
-   2_commandes
    3_analyseGlobale
    4_preventive
    6_suivi
