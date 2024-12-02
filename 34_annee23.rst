@@ -10,9 +10,8 @@ On fait une décomposition des crédits engagés en 2023 :
 
 XXXXXXXXX
 
-
 .. raw:: html
-   :file: '_static/marcMont23.html'
+   :file: _static/marcMont23.html
 
 AAAAAAAA
 
@@ -20,6 +19,7 @@ AAAAAAAA
    :file:  marcMont23.html
 
 html
+
 .. raw:: html
    :file:  'https://github.com/ExploitIdF/UtilisationDeSucombeDETT/blob/main/_static/marcMont23.html'
 
