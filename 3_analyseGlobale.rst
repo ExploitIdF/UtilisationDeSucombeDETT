@@ -62,13 +62,13 @@ On a calculé sur la période 2020-2024 les montants moyens engagés et les mont
    :widths: 20, 20,20
    :width: 60%
 
-    Curatif,8370,6317
-    Preventif,5507,4723
-    Fourniture,5165,2931
-    Evolutif,4542,2419
-    Prestations intellectuelles,1978,1057
-    Urgence,234,164
-    Total,25799,17613
+      Curatif,7092,6241
+      Evolutif,2646,2377
+      Fourniture,3236,2917
+      Prestations intellectuelles,1511,1054
+      Preventif,5217,4620
+      Urgence,169,152
+      Total,19871,17361
 
 Les qualifications selon la typologie ne sont pas uniformes, ils varient selon les marchés et les agents qui saisissent les données dans Sucombe.
 Par exemple, les prestations de maintien en condition opérationnelle (MCO) des marchés d'UIRC sont parfois classés dans le type Préventif, 
