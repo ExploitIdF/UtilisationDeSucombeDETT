@@ -93,32 +93,34 @@ Le tableau suivant donne les valeurs moyennes des montants globaux, sur les 5 de
    :header: Lieu \\ k€ HT,Montants engagés,Montants constatés
    :widths: 20, 20,20
    :width: 60%
-
-      Ambroise PARE,330,268
-      Antony,201,185
-      Bellerive,362,326
-      Bicêtre,502,445
-      Bobigny-Lumen-Norton,817,698
-      Boissy-Saint-Léger,70,65
-      Champigny,468,368
-      Chennevières,90,79
-      Fontenay le Fleury,67,51
-      Fresnes,112,86
-      Italie,77,59
-      La Courneuve,113,102
-      Landy,723,611
-      Nanterre / La Défense,2333,1972
-      Neuilly,149,133
-      Nogent,905,712
-      Orly,181,148
-      PCTT,1368,1050
-      SIREDO,241,131
-      SIRIUS,8863,5377
-      Saint Cloud,268,246
-      Sévines,142,132
-      Taverny,133,122
-      Thiais,260,204
-      Tous tunnels,7017,4053
+      
+      Taverny,129,114
+      Bobigny-Lumen-Norton,770,686
+      La Courneuve,100,94
+      Landy,666,597
+      Boissy-Saint-Léger,86,62
+      Champigny,405,354
+      Thiais,260,196
+      Nogent,833,694
+      Antony,199,176
+      Bicêtre,504,429
+      Fresnes,91,80
+      Italie,68,55
+      Orly,172,137
+      Ambroise PARE,305,257
+      Sévines,143,122
+      Saint Cloud,266,236
+      Nanterre / La Défense,2094,1953
+      Fontenay le Fleury,59,47
+      Chennevières,83,71
+      Bellerive,377,317
+      Neuilly,138,123
+      Tous tunnels,4596,4041
+      SIRIUS et TUNNELS,40,5
+      PCTT,1154,1023
+      SIREDO,200,130
+      SIRIUS,6124,5353
+      Total,19862,17352
 
 
 
