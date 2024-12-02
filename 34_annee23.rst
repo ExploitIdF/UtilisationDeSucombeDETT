@@ -12,22 +12,18 @@ XXXXXXXXX
 
 
 .. raw:: html
-
    :file: '_static/marcMont23.html'
 
 AAAAAAAA
 
 .. raw:: html
-
    :file:  marcMont23.html
 
 html
 .. raw:: html
-
    :file:  'https://github.com/ExploitIdF/UtilisationDeSucombeDETT/blob/main/_static/marcMont23.html'
 
 iframe 
 
 .. raw:: html
-
     <iframe src="https://github.com/ExploitIdF/UtilisationDeSucombeDETT/blob/main/_static/marcMont23.html" height="800px" width="100%"></iframe>
