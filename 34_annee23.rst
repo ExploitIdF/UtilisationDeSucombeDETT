@@ -8,28 +8,7 @@ On fait une décomposition des crédits engagés en 2023 :
 *  Montants constatés entre le  1/2/2024 et le 1/10/2024
 * Montants engagés mais non constatés
 
-XXXXXXXXX
+La répartition par marché est détaillée dans le graphique ci-dessous.
 
 .. raw:: html
    :file: _static/marcMont23.html
-
-AAAAAAAA
-
-.. raw:: html
-   :file:  marcMont23.html
-
-html
-
-.. raw:: html
-   :file:  'https://github.com/ExploitIdF/UtilisationDeSucombeDETT/blob/main/_static/marcMont23.html'
-
-iframe
-
-.. raw:: html
-    <iframe src="_static/marcMont23.html" height="800px" width="100%"></iframe>
-
-
-iframe html
-
-.. raw:: html
-    <iframe src="https://github.com/ExploitIdF/UtilisationDeSucombeDETT/blob/main/_static/marcMont23.html" height="800px" width="100%"></iframe>
