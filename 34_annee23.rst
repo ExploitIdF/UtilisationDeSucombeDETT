@@ -18,3 +18,11 @@ AAAAAAAA
 
 .. raw:: html
    :file:  marcMont23.html
+
+
+.. raw:: html
+   :file:  https://github.com/ExploitIdF/UtilisationDeSucombeDETT/blob/main/_static/marcMont23.html
+
+
+
+https://github.com/ExploitIdF/UtilisationDeSucombeDETT/blob/main/34_annee23.rst
