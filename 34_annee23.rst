@@ -10,6 +10,8 @@ On fait une décomposition des crédits engagés en 2023 :
 * Ecart entre les montants engagés et les constats, pour les prestations partiellement constatées avant le 1/11/2024
 * Montants engagés n'ayant fait l'objet d'aucun constat avant le 1/10/2024
 
+.. raw:: html
+   :file: _static/marcMont23.html
 
-
-
+.. raw:: html
+   :file:  marcMont23.html
