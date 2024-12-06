@@ -22,10 +22,16 @@ On appelle la table ainsi constitué **DE2020**, elle comporte 373 lignes.
 L'un des *code prix*, `'SDY FS 401'`, présente une erreur manifeste que l'on corrige pour permettre la liaison avec la table ExportSucombe.
 
 Pour 24 prix, la quantité prise en compte dans le DE est nulle.
+Ces prix représentent une dépense de 97 k€ ( 1% du total).
 
 Comparaison entre les consommations et le DE
 ************************************************
+Prix nouveaux
+===============
+
 57 prix utilisés n'apparaissent pas dans le DE et représentent une dépense de 2 848 k€ (30% du total).
+
+Les 15 principaux prix en termes de montant dépensé sont présenté dans la table suivante, triée selon les numéros de prix.
 
 .. csv-table::
    :header: codePrix,designation,unite,prixHT,quantite,totalHT
@@ -48,6 +54,23 @@ Comparaison entre les consommations et le DE
     SDY MEV 21,Fourniture et installation du kit permettant l'adaptation de cartes afficheurs SVMS DIM 16 en lieu et place de toutes les cartes afficheurs existantes pour un PMV HA SIRIUS Signature de type 2 lignes de 18 caractères Hc 160mm.,Lot de 12,94341.0,1.25,117926.25
     SDY MEV 23,Fourniture et installation du kit permettant l'adaptation de cartes afficheurs SVMS DIM 16 en lieu et place de toutes les cartes afficheurs existantes pour un PMV HA SIRIUS Signature de type 2 lignes de 18 caractères Hc 200mm.,Lot de 5,44037.0,2.0,88074.0
     
+Prix présents dans les DE
+==============================
+Pour les prix qui était initialement présents dans le DE, on peut comparer les différences entre les montants prévus et les montants consommés.
+
+La table suivante indique les 4 principaux prix pour lesquels la consommation est inférieure à la prévision.
+
+.. csv-table::
+   :header: codePrix,designation,prixHT,quantité DE,quantite effective,total DE,total effectif
+   :widths: 10, 40,10,10,10,10,10
+   :width: 100%
+
+      SDY MC 01,Unité de référence « recherche de défaut » (diagnostic).,504.97,1600.0,1285.0,807,648
+      SDY MC 02,Unité de référence « intervention corrective » (dépannage).,661.43,1600.0,1144.0,1058,756
+      SDY MP 01,"Visite annuelle décrite dans la gamme SDY 001 pour un équipement installé sur une structure PPHM visitable et de type Panneau à Messages Variables multi-usage dit « Picto », de type Panneau à Messages Variables dit « Autoroutier », dit « Hors Autoroute » ou dit « Dédié ».",671.14,740.0,242.0,496,162
+      SDY MP 07,Maintenance préventive renforcée décrite dans la gamme SDY 005 pour un équipement installé sur une structure PPHM visitable et de type Panneau à Messages Variables dit « Autoroutier ».,759.62,190.0,165.0,144,125
+      
+
 
 
 
