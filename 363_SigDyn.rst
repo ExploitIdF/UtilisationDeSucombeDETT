@@ -65,11 +65,17 @@ La table suivante indique les 4 principaux prix pour lesquels la consommation es
    :widths: 15, 40,10,10,10,10,10
    :width: 100%
 
-      SDY MC 01,Unité de référence « recherche de défaut » (diagnostic).,504.97,1600.0,1285.0,807,648
-      SDY MC 02,Unité de référence « intervention corrective » (dépannage).,661.43,1600.0,1144.0,1058,756
-      SDY MP 01,"Visite annuelle décrite dans la gamme SDY 001 pour un équipement installé sur une structure PPHM visitable et de type Panneau à Messages Variables multi-usage dit « Picto », de type Panneau à Messages Variables dit « Autoroutier », dit « Hors Autoroute » ou dit « Dédié ».",671.14,740.0,242.0,496,162
-      SDY MP 07,Maintenance préventive renforcée décrite dans la gamme SDY 005 pour un équipement installé sur une structure PPHM visitable et de type Panneau à Messages Variables dit « Autoroutier ».,759.62,190.0,165.0,144,125
-      
+      SDY DOC 03,"Mise à jour de la documentation « Constructeur » ou « Exploitation » (notice d’exploitation, manuel de maintenance…), ou « Ingénierie » (dossier d’ouvrage, note de calcul…) pour un équipement ou un matériel quels que soient son type, sa technologie, sa situation et le volume de la documentation à mettre à jour, conformément à la Fiche N°9.Ce prix rémunère la modification de tous les documents de référence disponibles dans la base DTC de la DiRIF",2282.09,4,39,9,89
+      SDY FS 08,"Fourniture d’un Pilote Informatique Contrôleur d’Accès (PICA) FARECO pour armoire CAC, avec soft de gestion inclus (Fareco UC Gallery).",9409.96,5,14,47,131
+      SDY FS 256,Fourniture d’une carte UPP03 pour matériel SIGNATURE (Référence SVMS 100697).,578.34,3,170,1,98
+      SDY ING 01,"Plus-value aux prix des séries SDY ING, SDY MEV et SDY DIV pour la réalisation des prestations de nuit entre 22h et 06h.",0.6,0,131838,0,79
+      SDY MEV 01,"Installation, raccordement et paramétrage d’une interface de communication SHDSL quels que soient son type (point à point, anneau redondant...) et sa technologie (cuivre, Fibre Optique) en armoire de commande d’un équipement (PMV, SAV, CAC…), avec fourniture de l’ensemble des périphériques nécessaires comme son alimentation BT/TBT, son disjoncteur différentiel de protection, ses câbles et fileries d’alimentation et de transmission, ses cordons ré",1993.99,3,42,5,83
+      SDY MEV 12,"Installation, raccordement et configuration d’un Pilote de panneau (PIP) de technologie LCR / TCP IP, de type carte pilote STS 311 et de ses interfaces éventuelles (carte UPP, carte injection...) en armoire de commande d’un équipement de signalisation dynamique (PMV, SAV…) quelle que soit sa situation, avec fourniture des périphériques comme son alimentation BT/TBT, son disjoncteur différentiel de protection, ses câbles et nappes (électrique, bus",1497.65,3,185,4,277
+      SDY MP 104,Tunnel de Type 4 (Nombre de module supérieur à 40 et inférieur ou égal à 55).,11157.94,5,12,55,143
+      SDY MP 202,Tunnel de Type 2 (Nombre de module supérieur à 10 et inférieur ou égal à 25).,10326.03,14,20,144,206
+      SDY MP 204,Tunnel de Type 4 (Nombre de module supérieur à 40 et inférieur ou égal à 55).,17997.72,5,20,89,359
+      SDY MP 205,Tunnel de Type 5 (Nombre de module supérieur à 55).,18499.46,1,6,18,110
+            
 
 
 
