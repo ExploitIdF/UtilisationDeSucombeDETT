@@ -58,7 +58,7 @@ Prix présents dans les DE
 ==============================
 Pour les prix qui était initialement présents dans le DE, on peut comparer les différences entre les montants prévus et les montants consommés.
 
-La table suivante indique les 4 principaux prix pour lesquels la consommation est inférieure à la prévision.
+La table suivante indique les 10 principaux prix pour lesquels la consommation est supérieure à la prévision.
 
 .. csv-table::
    :header: codePrix,designation,prixHT,quantité DE,quantite effective,total DE k€,total effectif k€
@@ -76,8 +76,25 @@ La table suivante indique les 4 principaux prix pour lesquels la consommation es
       SDY MP 204,Tunnel de Type 4 (Nombre de module supérieur à 40 et inférieur ou égal à 55).,17997.72,5,20,89,359
       SDY MP 205,Tunnel de Type 5 (Nombre de module supérieur à 55).,18499.46,1,6,18,110
             
+La table suivante indique les 10 principaux prix pour lesquels la consommation est inférieure à la prévision.
 
+.. csv-table::
+   :header: codePrix,designation,prixHT,quantité DE,quantite effective,total DE k€,total effectif k€
+   :widths: 15, 40,10,10,10,10,10
+   :width: 100%
 
+      SDY FS 407,"Fourniture d’un caisson de type « PMS » Grande Gamme, signaux XB14 (50 et 70) et XA1a décors normaux par bandes à diodes de diamètre 1050 mm environ (XB14) et 1250mm environ (base du XA1a), complet et prêt à fonctionner, de dimensions extérieures 1300x1300 mm et ouverture par la face avant, avec dispositifs de raccordement et de fixation (équerres, colliers, profilés et brides pour fixation sur PPHM.…) et mise en peinture (RAL sera définit par le",29939.01,1,0,29,0
+      SDY MC 01,Unité de référence « recherche de défaut » (diagnostic).,504.97,1600,1285,807,648
+      SDY MC 02,Unité de référence « intervention corrective » (dépannage).,661.43,1600,1144,1058,756
+      SDY MEV 09,"Fourniture et installation du kit permettant l'adaptation mécanique de cartes afficheurs de nouvelle génération en lieu et place des cartes afficheurs existantes pour un PMV A SIRIUS SIGNATURE de type 2 lignes de 18 caractères Hc 320mm.Ce kit comprend les platines porte-afficheur, toutes les nappes de liaisons inter-caractères d’alimentation et de réseau de données, les interfaces entre les platines et le caisson du PMV…Ce prix rémunère égaleme",15144.84,2,0,30,0
+      SDY MP 01,"Visite annuelle décrite dans la gamme SDY 001 pour un équipement installé sur une structure PPHM visitable et de type Panneau à Messages Variables multi-usage dit « Picto », de type Panneau à Messages Variables dit « Autoroutier », dit « Hors Autoroute » ou dit « Dédié ».",671.14,740,242,496,162
+      SDY MP 02,Visite annuelle décrite dans la gamme SDY 002 pour un équipement installé sur mât simple ou support mural et de type Panneau à Messages Variables dit « PMS ».,294.57,100,3,29,0
+      SDY MP 03,"Visite annuelle décrite dans la gamme SDY 001 pour une rampe de matériel installée sur une structure PPHM visitable et de type Signaux d’Affectation de Voies R21, quel que soit le nombre de caisson SAV (compris entre 2 et 5).",462.89,180,0,83,0
+      SDY MP 04,"Visite annuelle décrite dans la gamme SDY 012 pour un équipement installé sur une structure PPHM non visitable et de type Panneau à Messages Variables, dit « Hors Autoroute » ou dit « Dédié ».",668.98,330,161,220,107
+      SDY MP 05,"Visite annuelle décrite dans la gamme SDY 003 pour un matériel de régulation d’accès CAC Type A, B, C ou D (Feux R22 et pré-signalisation).",1117.84,225,78,251,87
+      SDY MP 201,Tunnel de Type 1 (Nombre de module inférieur ou égal à 10).,4978.51,8,1,39,4
+      
+      
 
 
 
