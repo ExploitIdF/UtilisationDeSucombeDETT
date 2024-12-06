@@ -61,8 +61,8 @@ Pour les prix qui était initialement présents dans le DE, on peut comparer les
 La table suivante indique les 4 principaux prix pour lesquels la consommation est inférieure à la prévision.
 
 .. csv-table::
-   :header: codePrix,designation,prixHT,quantité DE,quantite effective,total DE,total effectif
-   :widths: 10, 40,10,10,10,10,10
+   :header: codePrix,designation,prixHT,quantité DE,quantite effective,total DE k€,total effectif k€
+   :widths: 15, 40,10,10,10,10,10
    :width: 100%
 
       SDY MC 01,Unité de référence « recherche de défaut » (diagnostic).,504.97,1600.0,1285.0,807,648
