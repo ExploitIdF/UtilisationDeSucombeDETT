@@ -7,9 +7,12 @@ Le marché Signalisation dynamique est pris comme exemple pour établir le proto
 
 Extraction des consommations
 ********************************
-L'application Sucombe permet d'exporter un fichier qui pour chaque numéro de prix comporte les quantités consommées, les prix unitaires et le prix total.
+L'application Sucombe permet d'exporter un fichier qui, pour chaque numéro de prix, comporte les quantités consommées, les prix unitaires et le prix total.
 
 On appel cette table **ExportSucombe**, elle comporte 430 lignes.
+
+En exploitant la base de données on pourrait accéder aux données par année et par unité (PCTT, UPMM, UIRC ...).
+
 
 Importation du **Détail estimatif**
 **********************************************
