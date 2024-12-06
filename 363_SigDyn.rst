@@ -34,7 +34,7 @@ Prix nouveaux
 
 57 prix utilisés n'apparaissent pas dans le DE et représentent une dépense de 2 848 k€ (30% du total).
 
-Les 15 principaux prix en termes de montant dépensé sont présenté dans la table suivante, triée selon les numéros de prix.
+Les 15 principaux prix en termes de montants dépensés sont présentés dans la table suivante, triée selon les numéros de prix.
 
 .. csv-table::
    :header: codePrix,designation,unite,prixHT,quantite,totalHT
