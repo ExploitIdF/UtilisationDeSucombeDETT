@@ -19,10 +19,10 @@ Importation du **Détail estimatif**
 Dans le DCE, le DE apparait comme un fichier ODS : :code:`4a- DE SDY V1.ods` . 
 Ce fichier contient 13 onglets, le premier étant une synthèse.
 
-Dans un notebook Python, on peut lire chaque onglet et sélectionner les lignes dont le premier champ commence par SDY.
+Dans un notebook Python, on peut lire chaque onglet, sélectionner et concatenner les lignes dont le premier champ commence par SDY.
 On appelle la table ainsi constitué **DE2020**, elle comporte 373 lignes.
 
-L'un des *code prix*, `'SDY FS 401'`, présente une erreur manifeste que l'on corrige pour permettre la liaison avec la table ExportSucombe.
+L'un des *code prix*, :code:`'SDY FS 401'`, présente une erreur manifeste que l'on corrige pour permettre la liaison avec la table ExportSucombe.
 
 Pour 24 prix, la quantité prise en compte dans le DE est nulle.
 Ces prix représentent une dépense de 97 k€ ( 1% du total).
@@ -57,9 +57,9 @@ Les 15 principaux prix en termes de montant dépensé sont présenté dans la ta
     SDY MEV 21,Fourniture et installation du kit permettant l'adaptation de cartes afficheurs SVMS DIM 16 en lieu et place de toutes les cartes afficheurs existantes pour un PMV HA SIRIUS Signature de type 2 lignes de 18 caractères Hc 160mm.,Lot de 12,94341.0,1.25,117926.25
     SDY MEV 23,Fourniture et installation du kit permettant l'adaptation de cartes afficheurs SVMS DIM 16 en lieu et place de toutes les cartes afficheurs existantes pour un PMV HA SIRIUS Signature de type 2 lignes de 18 caractères Hc 200mm.,Lot de 5,44037.0,2.0,88074.0
     
-Prix présents dans les DE
+Prix présents dans le DE
 ==============================
-Pour les prix qui était initialement présents dans le DE, on peut comparer les différences entre les montants prévus et les montants consommés.
+Pour les prix qui étaient initialement présents dans le DE, on peut comparer les différences entre les montants prévus et les montants consommés.
 
 La table suivante indique les 10 principaux prix pour lesquels la consommation est supérieure à la prévision.
 
