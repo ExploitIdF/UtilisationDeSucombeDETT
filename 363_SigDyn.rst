@@ -16,7 +16,7 @@ En exploitant la base de données on pourrait accéder aux données par année e
 
 Importation du **Détail estimatif**
 **********************************************
-Dans le DCE, le DE apparait comme un fichier ODS : :code:`4a- DE SDY V1.ods` . 
+Le Détail estimatif (DE) du DCE 2020 apparait comme un fichier *.ODS* : :code:`4a- DE SDY V1.ods` . 
 Ce fichier contient 13 onglets, le premier étant une synthèse.
 
 Dans un notebook Python, on peut lire chaque onglet, sélectionner et concatenner les lignes dont le premier champ commence par SDY.
@@ -27,14 +27,13 @@ L'un des *code prix*, :code:`'SDY FS 401'`, présente une erreur manifeste que l
 Pour 24 prix, la quantité prise en compte dans le DE est nulle.
 Ces prix représentent une dépense de 97 k€ ( 1% du total).
 
-Comparaison entre les consommations et le DE
+
+Prix nouveaux (Absents du BPU 2020)
 ************************************************
-Prix nouveaux
-===============
+57 prix utilisés n'apparaissent pas dans le DE 2020 et représentent une dépense de 2 848 k€ (30% du total du marché).
 
-57 prix utilisés n'apparaissent pas dans le DE et représentent une dépense de 2 848 k€ (30% du total).
-
-Les 15 principaux prix en termes de montants dépensés sont présentés dans la table suivante, triée selon les numéros de prix.
+Les 15 principaux prix en termes de montants dépensés sont présentés dans la table suivante. 
+La table est triée selon les numéros de prix pour regrouper les prestations de même nature.
 
 .. csv-table::
    :header: codePrix,designation,unite,prixHT,quantite,totalHT
@@ -56,11 +55,14 @@ Les 15 principaux prix en termes de montants dépensés sont présentés dans la
     SDY MEV 19,"Installation, raccordement et configuration d’un Pilote de panneau (PIP) de technologie LCR / TCP IP, de type Abéon SD-341 et de ses interfaces éventuelles en armoire de commande et/ou caisson d’un équipement de signalisation dynamique de type Portique de présignalisation SES SCU6 2 B14 + 2R2 quelle que soit sa situation.Ce prix comprend la fourniture des périphériques comme les protections électriques, des câbles, nappes et/ou cordons (électriq",l'unité,5535.27,14.0,77493.78
     SDY MEV 21,Fourniture et installation du kit permettant l'adaptation de cartes afficheurs SVMS DIM 16 en lieu et place de toutes les cartes afficheurs existantes pour un PMV HA SIRIUS Signature de type 2 lignes de 18 caractères Hc 160mm.,Lot de 12,94341.0,1.25,117926.25
     SDY MEV 23,Fourniture et installation du kit permettant l'adaptation de cartes afficheurs SVMS DIM 16 en lieu et place de toutes les cartes afficheurs existantes pour un PMV HA SIRIUS Signature de type 2 lignes de 18 caractères Hc 200mm.,Lot de 5,44037.0,2.0,88074.0
-    
-Prix présents dans le DE
-==============================
-Pour les prix qui étaient initialement présents dans le DE, on peut comparer les différences entre les montants prévus et les montants consommés.
 
+
+Comparaison entre les consommations et le DE
+************************************************
+Pour les prix qui étaient initialement présents dans le DE 2020, on peut comparer les différences entre les montants prévus et les montants consommés.
+
+Consommations supérieures aux prévisions
+==============================================
 La table suivante indique les 10 principaux prix pour lesquels la consommation est supérieure à la prévision.
 
 .. csv-table::
@@ -78,7 +80,21 @@ La table suivante indique les 10 principaux prix pour lesquels la consommation e
       SDY MP 202,Tunnel de Type 2 (Nombre de module supérieur à 10 et inférieur ou égal à 25).,10326.03,14,20,144,206
       SDY MP 204,Tunnel de Type 4 (Nombre de module supérieur à 40 et inférieur ou égal à 55).,17997.72,5,20,89,359
       SDY MP 205,Tunnel de Type 5 (Nombre de module supérieur à 55).,18499.46,1,6,18,110
-            
+
+Fournitures
+^^^^^^^^^^^^^^^^
+On trouve des écarts importants dans des prix de fourniture. Il faudrait expliquer pourquoi ces fournitures n'avaient pas été anticipées.
+
+Maintenance préventive
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Les actions de maintenance préventive **renforcée** (prix MP 202,204,205) sont plus de deux fois ce qui avait été prévu soit une dépense supplémentaire de plus de 300 k€.
+Comment expliquer cet écart ?
+
+Inversement le prix MP 201 est sous consommé. Cela pourrait s'expliquer par un écart dans la classification des tunnels entre l'établissement du DE et les commandes.
+
+
+Consommations inférieures aux prévisions
+==============================================
 La table suivante indique les 10 principaux prix pour lesquels la consommation est inférieure à la prévision.
 
 .. csv-table::
@@ -98,6 +114,9 @@ La table suivante indique les 10 principaux prix pour lesquels la consommation e
       SDY MP 201,Tunnel de Type 1 (Nombre de module inférieur ou égal à 10).,4978.51,8,1,39,4
       
       
+Maintenance préventive des équipemnent SIRIUS
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+La consommation pour les prix MP 01 à MP 05 est de 30% de la prévision soit une surestimation de 700 k€. Comment l'expliquer ?
 
 
 
