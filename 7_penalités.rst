@@ -1,11 +1,12 @@
 Outils de saisie du *Certificat de pénalité*
 ###############################################
-Dans le cadre de la mise en place par **UPMM** de la procédure pour l'application des pénalités, on a envisagé de réaliser une application qui serait mise à la disposition des TDM pour éditer les **Certificats de pénalité*.
+Dans le cadre de la mise en place par **UPMM** de la procédure pour l'application des pénalités, on a envisagé de réaliser une application qui serait mise à la disposition des TDM pour éditer les **Certificats de pénalité**.
 Un prototype de l'application est accessible par le lien suivant : 
 
-:code:`https://penalite-pdf.web.app/`
 `<https://penalite-pdf.web.app/>`_
+
 Actions à réaliser sur l'application :
+========================================
 1) Le TDM choisi un marché dans une liste déroulante
 
 2) Le TDM choisi l'une des pénalités prévue par le marché dans une liste déroulante
@@ -20,9 +21,11 @@ L'application a besoin d'un fichier de configuration qui pour chaque marché ind
 
 Le fichier de configuration, pour faciliter la phase de développement est une Google Sheet, placée ici :
 
-:code:`https://docs.google.com/spreadsheets/d/1hdLrf8yLg34iHIghAHqkxu8x2CsYkpKpy2dhXyVMYos/edit?gid=0#gid=0`
+`<https://docs.google.com/spreadsheets/d/1hdLrf8yLg34iHIghAHqkxu8x2CsYkpKpy2dhXyVMYos/edit?gid=0#gid=0>`_
 
-Pour fonctionner de manière plus réaliste
+A ce stade, des valeurs de  test ont été introduite.
+
+Pour fonctionner de manière plus réaliste, il faudrait faire le travail de recencement des pénalités dans tous les marchés concernés.
 
 
 
