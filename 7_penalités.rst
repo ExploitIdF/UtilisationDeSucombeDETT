@@ -21,7 +21,7 @@ L'application a besoin d'un fichier de configuration qui pour chaque marché ind
 
 Le fichier de configuration, pour faciliter la phase de développement est une Google Sheet, placée ici :
 
-`Table des données de configuration<https://docs.google.com/spreadsheets/d/1hdLrf8yLg34iHIghAHqkxu8x2CsYkpKpy2dhXyVMYos/edit?gid=0#gid=0>`_
+`Table des données de configuration <https://docs.google.com/spreadsheets/d/1hdLrf8yLg34iHIghAHqkxu8x2CsYkpKpy2dhXyVMYos/edit?gid=0#gid=0>`_
 
 A ce stade, des valeurs de  test ont été introduites.
 
