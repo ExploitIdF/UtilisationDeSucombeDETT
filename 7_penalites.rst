@@ -1,12 +1,13 @@
 Outils de saisie du *Certificat de pénalité*
 ###############################################
-Dans le cadre de la mise en place par **UPMM** de la procédure pour l'application des pénalités, on a envisagé de réaliser une application qui serait mise à la disposition des TDM pour éditer les **Certificats de pénalité**.
-Un prototype de l'application est accessible par le lien suivant : 
+Dans le cadre de la mise en place par **UPMM** de la procédure pour l'application des pénalités prévues par les marchés du DETT, 
+on a envisagé de réaliser une application qui serait mise à la disposition des TDM pour éditer les **Certificats de pénalité**.  
+Un prototype de l'application est accessible par le lien suivant :  
 
 `<https://penalite-pdf.web.app/>`_
 
-Actions à réaliser sur l'application :
-========================================
+Actions à réaliser par le TDM sur l'application :
+=================================================
 1) Le TDM choisi un marché dans une liste déroulante
 
 2) Le TDM choisi l'une des pénalités prévue par le marché dans une liste déroulante
@@ -17,15 +18,18 @@ Actions à réaliser sur l'application :
 
 5) le TDM télécharge le certificat sous la forme d'un PDF.
 
-L'application a besoin d'un fichier de configuration qui pour chaque marché indique la liste des pénalité avec la référence de l'article du CCAG correspondante.
+Fichier de configuration
+=================================
+L'application a besoin pour fonctionner que soit renseigné un `fichier de configuration` qui, pour chaque marché, indique la liste des pénalités prévues, avec, pour chaque pénalité, la référence de l'article du CCAG correspondant.
 
-Le fichier de configuration, pour faciliter la phase de développement est une Google Sheet, placée ici :
+Le fichier de configuration, pour faciliter la phase de développement, est une Google Sheet, placée ici :
 
 `Table des données de configuration <https://docs.google.com/spreadsheets/d/1hdLrf8yLg34iHIghAHqkxu8x2CsYkpKpy2dhXyVMYos/edit?gid=0#gid=0>`_
 
-A ce stade, des valeurs de  test ont été introduites.
+A ce stade, des valeurs de  test ont été introduites dans le fichier de configuration.
 
-Pour fonctionner de manière plus réaliste, il faudrait faire le travail de recencement des pénalités dans tous les marchés concernés.
+Pour fonctionner de manière opérationnelle, UPMM devra faire le travail de recencement des pénalités de tous les marchés concernés,
+afin de les reporter dans un fichier de configuration de production.
 
 
 
