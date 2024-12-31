@@ -31,6 +31,17 @@ A ce stade, des valeurs de  test ont été introduites dans le fichier de config
 Pour fonctionner de manière opérationnelle, UPMM devra faire le travail de recencement des pénalités de tous les marchés concernés,
 afin de les reporter dans un fichier de configuration de production.
 
+Dévelopement de l'application 
+===============================
+Les développements sont faits par O. Nalin et documentés ici :
+https://github.com/ExploitIdF/penalite-pdf
+
+
+
+
+
+
+
 
 
 
