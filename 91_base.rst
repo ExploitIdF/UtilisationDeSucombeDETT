@@ -5,6 +5,7 @@ Base de données
    :header: Table,Champs
    :widths: 30, 70
    :width: 80%
+   :class: striped
 
     aco_eta,aco_id aco_eta_id eta_aco_typ_id aco_eta_date
     aco_fou,aco_id fou_id montant
