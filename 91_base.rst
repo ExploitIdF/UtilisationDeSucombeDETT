@@ -1,6 +1,6 @@
 Base de données
 ####################
-Liste des tables, de leur longueur et de leurs champs
+Liste des tables, de leurs longueurs et de leurs champs
 **********************************************************
 .. csv-table::
    :header: Table,Nombre de lignes,Champs
