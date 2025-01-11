@@ -1,9 +1,9 @@
 Base de données
 ####################
-Liste des tables et de leurs champs
-**************************************
+Liste des tables, de leur longueur et de leurs champs
+**********************************************************
 .. csv-table::
-   :header: Table,Nombre <br>de \n lignes,Champs
+   :header: Table,Nombre de lignes,Champs
    :widths: 20,10, 70
    :width: 90%
    :class: striped
