@@ -3,4 +3,7 @@ p {color: #025;}
 details.custom-summary {color: #505;  font-size: 150%;}
 details.custom-summary > p {font-size: 70%;color: #707;}
 
+.striped tr:nth-child(even) {
+  background-color: #f2f2f2; /* Light gray background for even rows */
+}
 
