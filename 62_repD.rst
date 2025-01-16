@@ -39,9 +39,11 @@ Les montants engagées, constatés et payés enregistrés dans le repD figurent 
     Partiellement constaté,	5736,	3941,	2579
     Non constaté,	3720,	0,	0
 
-Une partie des engagements constatés définitivement en dessous des engagements a pu être recyclé par annulation des AE au niveau de la DGFIP.
+Une partie des engagements constatés définitivement en dessous des engagements a pu être recyclée par annulation des AE au niveau de la DGFIP.
 
-57 des commandes qui n'ont pas fait l'objet d'un constat ont un montant supérieur à 10 000 €.
+`57 des commandes qui n'ont pas fait l'objet d'un constat ont un montant supérieur à 10 000 €<621_nonC>`_.
+
+`46 des commandes qui  ont  fait l'objet d'un constat partielle ont un reste à constater supérieur à 10 000 €<621_partC>`_.
 
 
 
