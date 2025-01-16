@@ -8,13 +8,21 @@ On travaillera principalement sur le repA du 31/12/2024.
 Les champs que l'on a renomés et exploités sont les suivants :
 
 * 'MontantTTC', Montant constaté 
-* 'Objet', Libellé de la commande (BDC/...) 
+* 'Objet', Libellé de la commande (BDC_2024_...) 
 * 'Date_CPCM', Date d'envoi par le BGA
 * 'Date_paiement', 
 * 'EJ', 
 * 'payé', Montant payé
 * 'Solde' , Solde de l'EJ
 
+Traitements réalisés
+**************************
+Montants constatés et payés en 2024
+=======================================
+On a extrait les années du libellé de commande (ce qui ne correspond par toujours à l'année budgétaire).
+On calcule les montants présents dans le repA de fin 2024 par année de commande.  
+
+Cela donne le volume des payements selon l'ancienneté des commandes.
 
 .. csv-table::
    :header: Année,Montant constaté,Montant payé
