@@ -43,7 +43,7 @@ Une partie des engagements constatés définitivement en dessous des engagements
 
 :doc:`57 des commandes qui n'ont pas fait l'objet d'un constat ont un montant supérieur à 10 000 €<621_nonC>`.
 
-`46 des commandes qui  ont  fait l'objet d'un constat partiel ont un reste à constater supérieur à 10 000 €<621_partC>`_.
+:doc:`46 des commandes qui  ont  fait l'objet d'un constat partiel ont un reste à constater supérieur à 10 000 €<621_partC>`.
 
 
 
