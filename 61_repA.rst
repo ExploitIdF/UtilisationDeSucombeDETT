@@ -35,7 +35,7 @@ Cela donne le volume des payements selon l'ancienneté des commandes.
      24,24302.7,8929.6
 
 .. csv-table::
-   :header: Mois,Taux de montants payés,Total des montants envoyés
+   :header: Mois,Taux de <br> montants payés,Total des montants \n envoyés
    :widths: 30, 30,30
    :width: 80%
    
