@@ -41,6 +41,9 @@ Les montants engagées, constatés et payés enregistrés dans le repD figurent 
 
 Une partie des engagements constatés définitivement en dessous des engagements a pu être recyclé par annulation des AE au niveau de la DGFIP.
 
+57 des commandes qui n'ont pas fait l'objet d'un constat ont un montant supérieur à 10 000 €.
+
+
 .. csv-table::
    :header: Libellé,Date,Unité,Montant TTC, Axe
    :widths: 30, 10,15,10,15
