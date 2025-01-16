@@ -5,7 +5,7 @@ Divers analyses
    :hidden:
    :maxdepth: 3
 
-   39_62_suivi
+   39_62_traitements
    4_preventive
 
 
