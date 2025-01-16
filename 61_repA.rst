@@ -17,14 +17,13 @@ Les champs que l'on a renomés et exploités sont les suivants :
 
 
 .. csv-table::
-   :header: annee,MontantTTC,payé
+   :header: Année,Montant constaté,Montant payé
    :widths: 30, 30,30
    :width: 80%
 
-
-  21,73.3,68.1
-  22,305.7,191.3
-  23,4238.5,3663.6
-  24,24302.7,8929.6
+     21,73.3,68.1
+     22,305.7,191.3
+     23,4238.5,3663.6
+     24,24302.7,8929.6
 
 
