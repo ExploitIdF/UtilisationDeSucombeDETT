@@ -6,7 +6,7 @@ Suivi des commandes récentes
    :hidden:
    :maxdepth: 3
 
-   62_traitements
+   39_62_traitements
 
 L'application Sucombe permet d'avoir accès à la liste des commandes et à la liste des prestations, 
 mais les données doivent être traitées avec d'autres outils. On n'a pas le moyen d'automatiser la mise à jour
