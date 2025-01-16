@@ -1,8 +1,12 @@
 Commandes 2024 partiellement constatées en 2024
 ########################################################
 
-    
-    noLC,Date,MontantTTC,MontantConstTTC,FacturéTTC,dif
+
+.. csv-table::
+   :header: Libellé,Date, Engagé TTC, Constaté TTC,Facturé TTC, Reste à constater
+   :widths: 30, 10,15,15,15,15
+   :width: 100%
+
     BDC/2024_DETT_MEC3-Lot1_1,11/04/24,24593,9837,9837,14756
     BDC/2024_PCTT Est_Detection3_12,17/01/24,56774,42580,42580,14194
     BDC/2024_PCTT Est_Detection3_6,16/01/24,27744,13872,13872,13872
