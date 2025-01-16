@@ -26,18 +26,22 @@ Cela donne le volume des payements selon l'ancienneté des commandes.
 
 .. csv-table::
    :header: Année,Montant constaté,Montant payé
-   :widths: 30, 30,30
-   :width: 80%
+   :widths: 20, 30,30
+   :width: 60%
 
-     21,73.3,68.1
-     22,305.7,191.3
-     23,4238.5,3663.6
-     24,24302.7,8929.6
+     2021,73.3,68.1
+     2022,305.7,191.3
+     2023,4238.5,3663.6
+     2024,24302.7,8929.6
+
+Le faible montant des paiements relatif au constat est lié au fait que, sur la deuxième partie de l'année, la plus grande partie des constats ne font pas l'objet de payement reporté dans le repA. Il est possible que ces paiements aient eu lieu mais que cela ne soit pas enregistré.
+
+La table suivante indique pour chaque mois de l'année 2024, le taux de constats payés (selon le repA) et le montant total constaté.
 
 .. csv-table::
-   :header: Mois,Taux de <br> montants payés,Total des montants \n envoyés
-   :widths: 30, 30,30
-   :width: 80%
+   :header: Mois,Taux de montants payés (%),Total des montants envoyés
+   :widths: 20, 30,30
+   :width: 50%
    
    01,96,1150
    02,96,745
