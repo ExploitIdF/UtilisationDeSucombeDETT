@@ -1,6 +1,6 @@
 Commandes 2024 partiellement constatées en 2024
 ########################################################
-
+Sur 149 commandes 2024 partiellement constatées, 47 présentent un reste à constater supérieur à 10 000€
 
 .. csv-table::
    :header: Libellé,Date, Engagé TTC, Constaté TTC,Facturé TTC, Reste à constater
