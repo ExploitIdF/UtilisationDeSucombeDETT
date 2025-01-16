@@ -1,6 +1,8 @@
 Commandes 2024 sans constat en 2024
 ##########################################
+120 commandes n'ont pas fait l'objet de constat, pour un montant de 3 720 k€  
 
+Les 57 de ces commandes qui dépassent 10 000 € sont listées ci-dessous.
 
 .. csv-table::
    :header: Libellé,Date,Unité,Montant TTC, Axe
