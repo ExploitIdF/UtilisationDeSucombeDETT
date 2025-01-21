@@ -22,12 +22,13 @@ Services == 'STT / DETT'
 Pour DIMET ce serait :  :code:`DIR94AR094	STT / DIMET`
 
 
-'Type de montant' & 'Type de montant.1' : Le second champs est un code pour le premier :
+**'Type de montant' & 'Type de montant.1'** : 
+Le second champs est un code pour le premier
 
 .. csv-table::
    :header: Code, Nom du type , Nombre d'occurence en 2024 
    :widths: 10, 20,10
-   :width: 50%
+   :width: 40%
 
     100, Original, 1717
     150, Modification ,55
