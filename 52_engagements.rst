@@ -1,6 +1,7 @@
 Engagements 2024
 ############################
-Le tableau ci-dessous indique pour chaque mois de l'année 2024 et pour chaque *Activité*, les opérations d'engagement.
+Le tableau ci-dessous indique pour chaque mois de l'année 2024 , les opérations d'engagement par *Activité* 
+(On n'a représenté les 40 principales *Activités* en terme de volume ).
 
 Au mois de janvier, les engagements sont principalement des reports de l'année précédente.
 
