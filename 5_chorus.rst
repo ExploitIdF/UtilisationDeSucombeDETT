@@ -15,12 +15,18 @@ Ce fichier contient des engagemements pour plusieurs *Services* de la DIRIF.
 Les lignes qui concernent le DETT peuvent être identifiées indifféremment par les conditions :
 
 ```
-Services == 'STT / DETT'  
-'DIR94ET094'
+Services == 'STT / DETT'   ou
+
+Centre de coûts == 'DIR94ET094'
 ```
 
-Pour DIMET ce serait :  :code:`DIR94AR094	STT / DIMET`
+Pour DIMET ce serait :
 
+```
+Services == 'STT / DIMET`'   ou
+
+Centre de coûts == 'DIR94AR094'
+```
 
 **'Type de montant' & 'Type de montant.1'** : 
 Le second champs est un code pour le premier
