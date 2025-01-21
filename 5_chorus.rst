@@ -5,9 +5,11 @@ On note dans cette page la nature de ces fichiers et les exploitations que l'on 
 
 jp51 
 ***************************
-Ce fichier contient des engagemements pour plusieurs *Services* de la DIRIF. 
+Ce fichier contient les opérations d'engagemement pour tous les *Services* de la DIRIF. 
 
-**Liste des champs de la table** : 'Exercice comptable', 'Centre financier', 'Domaine fonctionnel', 'Centre de coûts', 'Services',
+**Liste des champs de la table** :
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+'Exercice comptable', 'Centre financier', 'Domaine fonctionnel', 'Centre de coûts', 'Services',
 'Numéro de pièce de la pièce de référence',  'Numéro de poste de la pièce de référence', 'Texte', 'Montant à contrôler en dev. transaction',
 'Fournisseur', 'Nom 1', 'Type de montant', 'Type de montant.1', 'Activité','Programme de financement', 'Description du programme de financement',
 'Période', 'Date de mise à jour Comptabilité budgéta', 'Date comptable',  'Désignation du cpte budgétaire', 'Saisi par', 'Type de valeur', 'Compte général'
@@ -29,10 +31,11 @@ Centre de coûts == 'DIR94AR094'
 ```
 
 **'Type de montant' & 'Type de montant.1'** : 
-Le second champs est un code pour le premier
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Le second champs est un code pour le premier.
 
 .. csv-table::
-   :header: Code, Nom du type , Nombre d'occurence en 2024 
+   :header: Code du type, Nom du type , Nombre d'occurences en 2024 
    :widths: 10, 20,10
    :width: 40%
 
@@ -46,7 +49,9 @@ Le second champs est un code pour le premier
 
 
 
-'Désignation du cpte budgétaire' : ce champ permet d'identifier les rares dépenses immobilisées, 
+'Désignation du cpte budgétaire' : 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ce champ permet d'identifier les rares dépenses immobilisées, 
 il s'agit principalement d'opération suivies par DIMET ou le SEB.
 
 
