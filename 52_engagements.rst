@@ -5,8 +5,7 @@ Le tableau ci-dessous indique pour chaque mois de l'année 2024 , les opération
 
 Au mois de janvier, les engagements sont principalement des reports de l'année précédente.
 
-Les derniers jours de décembre, on d'importantes réductions d'engagements.
-
+Les derniers jours de décembre, on observe d'importantes réductions d'engagements, notamment pour DGTUCT.
 
 .. csv-table::
    :header: CF,Activité,1,2,3,4,5,6,7,8,9,10,11,12
