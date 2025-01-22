@@ -1,23 +1,31 @@
 Engagements 2024
 ############################
-Le tableau ci-dessous indique, pour chaque mois de l'année 2024, les opérations d'engagement par *Activité* 
-(On n'a représenté les 40 principales *Activités* en termes de volume ).
+Cette page est une exploitation du journal des engagements jp51 pour l'année 2024
 
-Le tableau ne prend pas en compte les reports des engagements des années précédentes. 
-Cependant 1 586 k€ sont engagés sur des EJ des années 2019 à 2023.
-Ils viennent abonder 28 EJ qui font l'objet de reports d'engagements pour un total de 1 156 k€.
+
+Les tableaux ci-dessous ne prennent pas en compte les reports des engagements des années précédentes. 
+Cependant on observe que 1 586 k€ sont engagés sur des EJ des années 2019 à 2023.
+Ces AE 2024 viennent abonder 28 EJ qui font l'objet de reports d'engagements pour un total de 1 156 k€.
+
+Répartition des engagements dans l'année
+************************************************
+On présente dans une premier temps une agrégation selon les comptes LFI & AFITF.
 
 .. csv-table::
-   :header: CF\Mois,1,2,3,4,5,6,7,8,9,10,11,12,Total
+   :header: CF\\Mois,1,2,3,4,5,6,7,8,9,10,11,12,Total
    :width: 100%
 
    AFITF,236,443,338,1446,220,754,460,747,1467,810,1898,4505,13324
    LFI,1796,883,4302,3757,340,2287,2482,1911,1176,1639,1477,915,22965
    Total,2032,1326,4640,5203,560,3041,2942,2658,2643,2449,3375,5420,36289
-   
+
+
+Le tableau ci-dessous indique, pour chaque mois de l'année 2024, les opérations d'engagement par *Activité* 
+(On n'a représenté les 40 principales *Activités* en termes de volume ).
+
 
 .. csv-table::
-   :header: Activité\Mois,1,2,3,4,5,6,7,8,9,10,11,12,Total
+   :header: Activité\\Mois,1,2,3,4,5,6,7,8,9,10,11,12,Total
    :width: 100%
 
    DYBR02,0,0,0,0,38,45,93,355,1051,0,0,12,1594
