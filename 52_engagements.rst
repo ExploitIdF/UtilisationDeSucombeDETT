@@ -1,11 +1,10 @@
 Engagements 2024
 ############################
-Cette page est une exploitation du journal des engagements jp51 pour l'année 2024
-
+Cette page est une exploitation du journal Chorus des engagements (jp51) pour l'année 2024
 
 Les tableaux ci-dessous ne prennent pas en compte les reports des engagements des années précédentes. 
-Cependant on observe que 1 586 k€ sont engagés sur des EJ des années 2019 à 2023.
-Ces AE 2024 viennent abonder 28 EJ qui font l'objet de reports d'engagements pour un total de 1 156 k€.
+Cependant on observe que 1 586 k€ ont été engagés sur des EJ des années 2019 à 2023.
+Ces AE 2024 viennent abonder 28 EJ qui ont fait l'objet de reports d'engagements de 2023 pour un total de 1 156 k€.
 
 Répartition des engagements dans l'année
 ************************************************
