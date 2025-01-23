@@ -88,11 +88,11 @@ Les Changements d'imputation (codes 600 et 650) sont le plus souvent utilisé si
 'Désignation du cpte budgétaire' : 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 ce champ permet d'identifier les rares dépenses immobilisées, 
-il s'agit principalement d'opération suivies par DIMET ou le SEB, même si elle reste comptablement attribuées au DETT.
+il s'agit principalement d'opérations suivies par DIMET ou le SEB, même si elles restent comptablement attribuées au DETT.
 
 'Date de mise à jour Comptabilité budgéta'
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Cette date est celle de l'opération enregistrée en 2024.
+Cette date est celle de l'opération enregistrée.
 
 'Date comptable'
 ^^^^^^^^^^^^^^^^^^
