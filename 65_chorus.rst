@@ -21,6 +21,7 @@ Ce fichier contient les opérations d'engagemement pour tous les *Services* de l
 **Liste des champs (colonnes) de la table** :
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 On recopie les entêtes des colonnes de la table :
+
 ```
 'Exercice comptable', 'Centre financier', 'Domaine fonctionnel', 'Centre de coûts', 'Services',
 'Numéro de pièce de la pièce de référence',  'Numéro de poste de la pièce de référence', 'Texte', 'Montant à contrôler en dev. transaction',
@@ -38,22 +39,24 @@ Centre de coûts == 'DIR94ET094'
 
 Pour DIMET ce serait :
 
-```
+``
 Services == 'STT / DIMET`'   ou
 
 Centre de coûts == 'DIR94AR094'
-```
+``
 
 'Numéro de pièce de la pièce de référence'
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Le champ 'Numéro de pièce de la pièce de référence' désigne l'EJ et on emploiera ce dernier terme par la suite.
+Le champ :code:`'Numéro de pièce de la pièce de référence'` désigne l'EJ et on emploiera ce dernier terme par la suite.
 
 C'est par ce champ que l'on peut faire des liaisons avec le fichies des paiements ou avec les commandes enregistrées dans Sucombe.
 
 
 **'Type de montant' & 'Type de montant.1'** : 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Le second champ 'Type de montant.1' est un code pour le premier.
+Le second champ **'Type de montant.1'** est un code pour le premier. 
+
+La table suivantes indique les codes et le nombre d'occurence de chaque **type de montant**.
 
 .. csv-table::
    :header: Code du type, Nom du type , Nombre d'occurences en 2024 
@@ -68,12 +71,19 @@ Le second champ 'Type de montant.1' est un code pour le premier.
     600 ,Changement d'imputation émetteur ,819
     650 ,Changement d'imputation récepteur, 819
 
+Les engagements simples avec création d'un EJ ont le type **Original** (code 100). Ce même type s'applique pour le premier engagement sur une EJ reporté de l'année précédente.
+
+Le type  **Modification** (code 150) est utilisé en pour un engagement supplémentaire.
+
 Les réductions (200) correspondent aux paiements et prennent à quelques exceptions près de svaleurs négatives. Il ne s'agit donc pas d'engagements.
 
 Les reports d'engagements (code 350) interviennent en début d'année, leur date de mise à jour est le 1er janvier.
 
-Presque 1300 EJs sont reportés avec parfois plusieurs opérations de report pour le même EJ. 
+Presque 1300 EJs sont reportés, avec parfois plusieurs opérations de report pour le même EJ. 
 Le montant total des reports est de 32,5M€.
+
+Les Changements d'imputation (codes 600 et 650) sont le plus souvent utilisé simultanément car il s'agit de transfert entres lignes du DTT. Si les changements concerne un autre service, DIMET par exemple, on aura selement l'un ou l'autre des types.
+
 
 'Désignation du cpte budgétaire' : 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
