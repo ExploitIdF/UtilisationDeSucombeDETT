@@ -7,8 +7,12 @@ Chorus
 
    652_engagements
 
-Le DETT reçoit chaque semaine des fichiers issus de Chorus : jp51.ods et jp57.ods.
-On note dans cette page la nature de ces fichiers et les exploitations que l'on a faites avec.
+Le DETT reçoit chaque semaine des fichiers issus de Chorus : 
+
+* jp51.ods et 
+* jp57.ods.
+
+On note dans cette page des informations sur la nature de ces fichiers et sur les exploitations que l'on a faites avec.
 
 jp51 
 ***************************
@@ -40,6 +44,13 @@ Services == 'STT / DIMET`'   ou
 Centre de coûts == 'DIR94AR094'
 ```
 
+'Numéro de pièce de la pièce de référence'
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Le champ 'Numéro de pièce de la pièce de référence' désigne l'EJ et on emploiera ce dernier terme par la suite.
+
+C'est par ce champ que l'on peut faire des liaisons avec le fichies des paiements ou avec les commandes enregistrées dans Sucombe.
+
+
 **'Type de montant' & 'Type de montant.1'** : 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Le second champ 'Type de montant.1' est un code pour le premier.
@@ -47,7 +58,7 @@ Le second champ 'Type de montant.1' est un code pour le premier.
 .. csv-table::
    :header: Code du type, Nom du type , Nombre d'occurences en 2024 
    :widths: 10, 20,10
-   :width: 40%
+   :width: 80%
 
     100, Original, 1717
     150, Modification ,55
@@ -59,7 +70,10 @@ Le second champ 'Type de montant.1' est un code pour le premier.
 
 Les réductions (200) correspondent aux paiements et prennent à quelques exceptions près de svaleurs négatives. Il ne s'agit donc pas d'engagements.
 
-Les reports d'engagement (350) interviennent en début d'année, leur date de mise à jour est le 1er janvier.
+Les reports d'engagements (code 350) interviennent en début d'année, leur date de mise à jour est le 1er janvier.
+
+Presque 1300 EJs sont reportés avec parfois plusieurs opérations de report pour le même EJ. 
+Le montant total des reports est de 32,5M€.
 
 'Désignation du cpte budgétaire' : 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -72,7 +86,10 @@ Cette date est celle de l'opération enregistrée en 2024.
 
 'Date comptable'
 ^^^^^^^^^^^^^^^^^^
-C'est la date de création de l'EJ, elle peut être ancienne quand l'EJ est réalimenté chaque année comme on le fait pour les fluides ou quand l'EJ n'a pas été supprimé quand bien même il n'est plus actif.
+C'est la date de création de l'EJ, elle peut être ancienne quand l'EJ est réalimenté chaque année, 
+comme on le fait pour les fluides, ou lorsque l'EJ n'a pas été supprimé quand bien même il n'est plus actif.
+
+
 
 
 
