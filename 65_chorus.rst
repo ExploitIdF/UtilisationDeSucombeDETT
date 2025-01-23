@@ -6,6 +6,7 @@ Chorus
    :maxdepth: 3
 
    652_engagements
+   653_paiements
 
 Le DETT reçoit chaque semaine des fichiers issus de Chorus : 
 
