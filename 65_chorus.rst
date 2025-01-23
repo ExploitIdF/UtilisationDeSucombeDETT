@@ -49,7 +49,7 @@ Centre de coûts == 'DIR94AR094'
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Le champ :code:`'Numéro de pièce de la pièce de référence'` désigne l'EJ et on emploiera ce dernier terme par la suite.
 
-C'est par ce champ que l'on peut faire des liaisons avec le fichies des paiements ou avec les commandes enregistrées dans Sucombe.
+C'est par ce champ que l'on peut faire des liaisons avec le fichier des paiements ou avec les commandes enregistrées dans Sucombe (**RepD**).
 
 
 **'Type de montant' & 'Type de montant.1'** : 
