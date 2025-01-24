@@ -25,7 +25,7 @@ Le tableau ci-dessous indique, pour chaque mois de l'année 2024, les opération
 
 
 .. csv-table::
-   :header: Activité\\Mois,1,2,3,4,5,6,7,8,9,10,11,12,Total
+   :header: Mois,1,2,3,4,5,6,7,8,9,10,11,12,Total
    :width: 100%
 
    DYBR02,0,0,0,0,38,45,93,355,1051,0,0,12,1594
