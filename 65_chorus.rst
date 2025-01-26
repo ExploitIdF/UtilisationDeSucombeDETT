@@ -88,7 +88,7 @@ Les Changements d'imputation (codes 600 et 650) sont le plus souvent utilisé si
 
 'Désignation du cpte budgétaire' : 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-ce champ permet d'identifier les rares dépenses immobilisées, 
+Ce champ permet d'identifier les rares dépenses immobilisées, 
 il s'agit principalement d'opérations suivies par DIMET ou le SEB, même si elles restent comptablement attribuées au DETT.
 
 'Date de mise à jour Comptabilité budgéta'
@@ -150,7 +150,7 @@ Les autres lignes ont un EJ, ce qui permet de les rapprocher des paiements qu'el
 Liens entre jp51 et jp57
 ==============================
 Les paiements de jp57 sont presque toujours liés à une ligne de type **Réduction** de jp51. 
-On a observé un écart de 30 lignes sur les deux derniers jours de l'années mais la raison est peut être que le fichier jp57 n'était pas complet.
+On a observé un écart de 30 lignes sur les deux derniers jours de l'années, mais la raison est peut être que le fichier jp57 n'était pas complet.
 
 Comme cela concerne des paiements importants, la différence d'estimation des paiements entre les deux fichiers est de 2,5M€.
 
