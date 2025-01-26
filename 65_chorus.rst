@@ -20,7 +20,7 @@ jp51
 Ce fichier contient les opérations d'engagemement pour tous les *Services* de la DIRIF. 
 
 **Liste des champs (colonnes) de la table** :
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 On recopie les entêtes des colonnes de la table :
 
 ```
@@ -102,7 +102,7 @@ comme on le fait pour les fluides, ou lorsque l'EJ n'a pas été supprimé quand
 
 
 jp57 
-****************
+******
 Ce fichier contient les opérations de paiement, pour tous les *Services* de la DIRIF. 
 
 Champs (colonnes) de la table :
@@ -153,9 +153,6 @@ Les paiements de jp57 sont presque toujours liés à une ligne de type **Réduct
 On a observé un écart de 30 lignes sur les deux derniers jours de l'années, mais la raison est peut être que le fichier jp57 n'était pas complet.
 
 Comme cela concerne des paiements importants, la différence d'estimation des paiements entre les deux fichiers est de 2,5M€.
-
-
-
 
 
 
