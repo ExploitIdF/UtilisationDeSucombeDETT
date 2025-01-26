@@ -126,7 +126,8 @@ Certains champs sont communs avec ceux du fichier **jp51**.
 le champs **'Numéro de la pièce précédente'** correspond à l'EJ pour lequel est réalisé le paiement. Ce champ permet de faire une liaison avec le repD.
 
  'Date comptable' & 'Date pièce'
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
  **'Date comptable'** est la date du paiement.
 
 **'Date pièce'** semble être la date de transmission de la demande de paiement par le BGA au CGF.
@@ -135,13 +136,15 @@ Quand on peut faire la liaison avec le répertoire D, on observe que cette date 
 Quand on observe la distribution de la différence entre 'Date comptable' & 'Date pièce', on trouve une valeur médiane de 18 jours.
 Dans 10% des cas, la différence est inférieure à 4 jours.
 
-Valeurs du montant négatives
+Valeursnégatives  du montant du paiement
 ==================================================
 Les montants des paiements sont presque toujours positifs. En 2024, sur près de 3000 lignes, on ne trouve que 10 valeurs inférieures à -100€.
 
 On observe en particulier le montant -740k€ avec le fournisseur EDF (Sans EJ).
 
-Une ligne avec un montant -3686.79€, avec le fournisseur OPEN, comporte la mention PENALITE dans le champs **Texte_tête de pièce**. 
+Une ligne avec un montant -3686.79€, avec le fournisseur OPEN (Sans EJ), comporte la mention PENALITE dans le champs **Texte_tête de pièce**. 
+
+Les autres lignes ont un EJ, ce qui permet de les rapprocher des paiements qu'elles viennent corriger.
 
 Liens entre jp51 et jp57
 ==============================
