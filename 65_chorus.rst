@@ -105,8 +105,9 @@ jp57
 ****************
 Ce fichier contient les opérations de paiement, pour tous les *Services* de la DIRIF. 
 
-**Liste des champs (colonnes) de la table** :
+Champs (colonnes) de la table :
 ==================================================
+
 On recopie les entêtes des colonnes de la table :
 
 ```
@@ -125,7 +126,7 @@ Certains champs sont communs avec ceux du fichier **jp51**.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 le champs **'Numéro de la pièce précédente'** correspond à l'EJ pour lequel est réalisé le paiement. Ce champ permet de faire une liaison avec le repD.
 
- 'Date comptable' & 'Date pièce'
+'Date comptable' & 'Date pièce'
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
  **'Date comptable'** est la date du paiement.
