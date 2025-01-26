@@ -106,7 +106,7 @@ jp57
 Ce fichier contient les opérations de paiement, pour tous les *Services* de la DIRIF. 
 
 Champs (colonnes) de la table :
-==================================================
+=================================
 
 On recopie les entêtes des colonnes de la table :
 
