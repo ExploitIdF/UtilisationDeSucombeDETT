@@ -111,20 +111,19 @@ On recopie les entêtes des colonnes de la table :
 
 ```
 'Exercice comptable', 'Période', 'Centre financier', 'Domaine fonctionnel', 'Centre de coûts', 'Services', 'Fournisseur',
-       'Nom 1', 'Type de montant', 'Programme de financement',       'Désignation du programme de financement',
-       'Description du programme de financement', 'Référence',       'Texte d'en-tête de pièce', 'Numéro de la pièce précédente',
-       'Poste de pièce précédente', 'Montant à contrôler en devise trans. ave',       'Date comptable', 'Nº pièce de paiement',
-       'Date de base pour le calcul de l'échéanc', 'Date pièce', 'Activité',       'Type de pièce', 'Texte type val.',
-       'Numéro de pièce comptabilité budgétaire',       'Numéro de pièce de la pièce de référence', 'Numéro de pièce RW',
-       'Type de valeur', 'Zone client', 'N° de transaction', 'Immobilisation',       'Désignation', 'Code ID bancaire', 'Compte bancaire', 'Clé R.I.B.'
+'Nom 1', 'Type de montant', 'Programme de financement',       'Désignation du programme de financement',
+'Description du programme de financement', 'Référence',       'Texte d'en-tête de pièce', 'Numéro de la pièce précédente',
+'Poste de pièce précédente', 'Montant à contrôler en devise trans. ave',       'Date comptable', 'Nº pièce de paiement',
+'Date de base pour le calcul de l'échéanc', 'Date pièce', 'Activité',       'Type de pièce', 'Texte type val.',
+'Numéro de pièce comptabilité budgétaire',       'Numéro de pièce de la pièce de référence', 'Numéro de pièce RW',
+'Type de valeur', 'Zone client', 'N° de transaction', 'Immobilisation',       'Désignation', 'Code ID bancaire', 'Compte bancaire', 'Clé R.I.B.'
 ```
 
-Certains champs sont commun avec ceux du fichier jp51.
+Certains champs sont communs avec ceux du fichier **jp51**.
 
 'Numéro de la pièce précédente'
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-le champs **'Numéro de la pièce précédente'** correspond à l'EJ pour lequel est réalisé le paiement.
-
+le champs **'Numéro de la pièce précédente'** correspond à l'EJ pour lequel est réalisé le paiement. Ce champ permet de faire une liaison avec le repD.
 
  'Date comptable' & 'Date pièce'
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -143,5 +142,16 @@ Les montants des paiements sont presque toujours positifs. En 2024, sur près de
 On observe en particulier le montant -740k€ avec le fournisseur EDF (Sans EJ).
 
 Une ligne avec un montant -3686.79€, avec le fournisseur OPEN, comporte la mention PENALITE dans le champs **Texte_tête de pièce**. 
+
+Liens entre jp51 et jp57
+==============================
+Les paiements de jp57 sont presque toujours liés à une ligne de type **Réduction** de jp51. 
+On a observé un écart de 30 lignes sur les deux derniers jours de l'années mais la raison est peut être que le fichier jp57 n'était pas complet.
+
+Comme cela concerne des paiements importants, la différence d'estimation des paiements entre les deux fichiers est de 2,5M€.
+
+
+
+
 
 
