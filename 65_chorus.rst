@@ -137,8 +137,8 @@ Quand on peut faire la liaison avec le répertoire D, on observe que cette date 
 Quand on observe la distribution de la différence entre 'Date comptable' & 'Date pièce', on trouve une valeur médiane de 18 jours.
 Dans 10% des cas, la différence est inférieure à 4 jours.
 
-Valeursnégatives  du montant du paiement
-==================================================
+Valeurs négatives du montant du paiement
+==========================================
 Les montants des paiements sont presque toujours positifs. En 2024, sur près de 3000 lignes, on ne trouve que 10 valeurs inférieures à -100€.
 
 On observe en particulier le montant -740k€ avec le fournisseur EDF (Sans EJ).
@@ -148,11 +148,8 @@ Une ligne avec un montant -3686.79€, avec le fournisseur OPEN (Sans EJ), compo
 Les autres lignes ont un EJ, ce qui permet de les rapprocher des paiements qu'elles viennent corriger.
 
 Liens entre jp51 et jp57
-==============================
+=========================
 Les paiements de jp57 sont presque toujours liés à une ligne de type **Réduction** de jp51. 
 On a observé un écart de 30 lignes sur les deux derniers jours de l'années, mais la raison est peut être que le fichier jp57 n'était pas complet.
 
 Comme cela concerne des paiements importants, la différence d'estimation des paiements entre les deux fichiers est de 2,5M€.
-
-
-
