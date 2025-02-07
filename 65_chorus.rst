@@ -57,7 +57,7 @@ C'est par ce champ que l'on peut faire des liaisons avec le fichier des paiement
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Le second champ **'Type de montant.1'** est un code pour le premier. 
 
-La table suivantes indique les codes et le nombre d'occurence de chaque **type de montant**.
+La table suivante indique les codes et le nombre d'occurences de chaque **type de montant**.
 
 .. csv-table::
    :header: Code du type, Nom du type , Nombre d'occurences en 2024 
@@ -74,17 +74,17 @@ La table suivantes indique les codes et le nombre d'occurence de chaque **type d
 
 Les engagements simples avec création d'un EJ ont le type **Original** (code 100). Ce même type s'applique pour le premier engagement sur une EJ reporté de l'année précédente.
 
-Le type  **Modification** (code 150) est utilisé en pour un engagement supplémentaire.
+Le type  **Modification** (code 150) est utilisé en pour un engagement supplémentaire et parfois pour une réduction/correction.
 
-Les réductions (200) correspondent aux paiements et prennent à quelques exceptions près de svaleurs négatives. Il ne s'agit donc pas d'engagements.
+Les réductions (200) correspondent aux paiements et prennent, à quelques exceptions près, des valeurs négatives. 
+Il ne s'agit donc pas d'engagements.
 
 Les reports d'engagements (code 350) interviennent en début d'année, leur date de mise à jour est le 1er janvier.
 
 Presque 1300 EJs sont reportés, avec parfois plusieurs opérations de report pour le même EJ. 
-Le montant total des reports est de 32,5M€.
+Le montant total des reports est de 32,5M€ en 2024.
 
-Les Changements d'imputation (codes 600 et 650) sont le plus souvent utilisé simultanément car il s'agit de transfert entres lignes du DTT. Si les changements concerne un autre service, DIMET par exemple, on aura selement l'un ou l'autre des types.
-
+Les **changements d'imputation** (codes 600 et 650) sont le plus souvent utilisés simultanément car il s'agit de transfert entres lignes du DTT. Si les changements concerne un autre service, DIMET par exemple, on aura selement l'un ou l'autre des types.
 
 'Désignation du cpte budgétaire' : 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -100,14 +100,12 @@ Cette date est celle de l'opération enregistrée.
 C'est la date de création de l'EJ, elle peut être ancienne quand l'EJ est réalimenté chaque année, 
 comme on le fait pour les fluides, ou lorsque l'EJ n'a pas été supprimé quand bien même il n'est plus actif.
 
-
 jp57 
 ******
 Ce fichier contient les opérations de paiement, pour tous les *Services* de la DIRIF. 
 
 Champs (colonnes) de la table :
 =================================
-
 On recopie les entêtes des colonnes de la table :
 
 ```
@@ -117,14 +115,14 @@ On recopie les entêtes des colonnes de la table :
 'Poste de pièce précédente', 'Montant à contrôler en devise trans. ave',       'Date comptable', 'Nº pièce de paiement',
 'Date de base pour le calcul de l'échéanc', 'Date pièce', 'Activité',       'Type de pièce', 'Texte type val.',
 'Numéro de pièce comptabilité budgétaire',       'Numéro de pièce de la pièce de référence', 'Numéro de pièce RW',
-'Type de valeur', 'Zone client', 'N° de transaction', 'Immobilisation',       'Désignation', 'Code ID bancaire', 'Compte bancaire', 'Clé R.I.B.'
+'Type de valeur','Zone client', 'N° de transaction', 'Immobilisation','Désignation', 'Code ID bancaire', 'Compte bancaire', 'Clé R.I.B.'
 ```
 
 Certains champs sont communs avec ceux du fichier **jp51**.
 
 'Numéro de la pièce précédente'
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-le champs **'Numéro de la pièce précédente'** correspond à l'EJ pour lequel est réalisé le paiement. Ce champ permet de faire une liaison avec le repD.
+le champs **'Numéro de la pièce précédente'** correspond à l'EJ pour lequel est réalisé le paiement. Ce champ permet de faire une liaison avec le fichier jp51 et le repD.
 
 'Date comptable' & 'Date pièce'
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -145,7 +143,7 @@ On observe en particulier le montant -740k€ avec le fournisseur EDF (Sans EJ).
 
 Une ligne avec un montant -3686.79€, avec le fournisseur OPEN (Sans EJ), comporte la mention PENALITE dans le champs **Texte_tête de pièce**. 
 
-Les autres lignes ont un EJ, ce qui permet de les rapprocher des paiements qu'elles viennent corriger.
+Les autres lignes, en 2024, ont un EJ, ce qui permet de les rapprocher des paiements qu'elles viennent corriger.
 
 Liens entre jp51 et jp57
 =========================
