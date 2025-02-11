@@ -30,34 +30,35 @@ Etapes des saisies dans Sucombe qui contribuent à l'alimentation du rep D
 Tous les bons de commande validés par un chef d'unité *habilité* sont enregistrés dans le repD.
 
 Le BGA doit recevoir le bon de commande pour faire la DA dans Chorus. 
+
 En général, moins de 15 jours après la saisie dans Chorus, le BGA reçoit un numéro d'EJ qu'il reporte *à la main* dans Sucombe.
 Dès lors ce N° d'EJ apparait dans le rep D.
 
-le TDM édite les constats dans Sucombe. Le montant et la date sont enregistrés dans le rep D.
+L'agent qui suit l'une des prestations qui composent la commande (un TDM par exemple)  édite un constat dans Sucombe. 
+Le montant et la date du constat sont enregistrés dans le rep D.
 
-Le BGA reçoit les constats et saisie dans Sucombe la date d'envoi au CGF.
+Le BGA reçoit le constat et saisie dans Sucombe la date d'envoi au CGF.
 
 Par la suite, le BGA reporte dans Sucombe les dates des mandats et les montants mais cette information n'est pas systématiquement saisie.
-Il semble que le rep D ne soit pas la principale base du suivi des paiements. 
+Il semble que Sucombe (le rep D) ne soit pas la principale base du suivi des paiements. 
 
 Situations de commandes  qui s'écartent du processus normal de traitement
 ===============================================================================
 Le chef d'unité peut valider un bon de commande dans Sucombe mais ne pas donner suite. 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Le bon de commande ne parvient pas au BGA et au prestataire. Il reste néanmoins dans Sucombe.
+Le bon de commande ne parvient ni au BGA ni au prestataire. Il reste néanmoins dans Sucombe et figure dans le rep D.
 
 Il n'y a pas de règle systématique pour identifier les lignes correspondantes, le plus souvent, le BGA écrit Annulé, la où devrait apparaitre l'EJ.
 
 La commande est envoyée au prestataire et au BGA mais refusée par le CGF
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Dans ce cas, le BGA ne peut pas saisir un EJ dans Sucombe.
+Dans ce cas, le BGA ne peut pas saisir un EJ dans Sucombe et le communiquer au prestataire.
 On se trouve dans la situation délicate d'avoir passé une commande sans engagement financier enregistré dans Chorus.
 
 Le BGA fait en sorte de régulariser la commande avec l'aide de l'unité d'origine et du destinataire, 
 titulaire d'un marché ou attributaire d'une *commande simple*.
 
-
-
+En fin d'année 2024, on avait une dizaine de commande qui avaient été constatées sans être engagées dans Chorus.
 
 
 
