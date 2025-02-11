@@ -4,21 +4,62 @@ RepD
 En quoi consiste le repD ?
 *******************************
 Le repD est une table produite par Sucombe qui contient la liste des engagements budgétaires de l'année en cours.
-On travaillera principalement sur les repD des 31/12/2023 &  31/12/2024, soit les années entières 2023 & 2024.
+On a travaillé principalement sur les repD des 31/12/2023 &  31/12/2024, soit les années entières 2023 & 2024.
 Les champs que l'on a renomés et exploités sont les suivants :
 
-* 'noLC',Libellé de la commande (BDC/2024_...) 
-* 'Date',
+* 'noLC', Libellé de la commande ( du type : BDC/2024_...) 
+* 'Date', Date de validation du bon de commande
 * 'Unité',
 * 'MontantTTC', 
 * 'Axe', 
 * 'noEJ', 
-* 'DateConstat',   
-* 'PouT',
-* 'MontantConstTTC',  
+* 'DateConstat',   Autant de dates que de constats
+* 'PouT', Le constat est il, non existant, partiel ou total
+* 'MontantConstTTC',  Autant de montants que de constats
 * 'dateRéception', 
 * 'Solde EJ',
 * 'Date du Mandat'
+
+A quoi sert le rep D ?
+***************************
+Le rep D est l'un des principaux outils de suivi du budget. 
+Les fluides et certaines dépenses ne sont pas suivi dans Sucombe mais la plus grande partie s'y trouve.
+
+Etapes des saisies dans Sucombe qui contribuent à l'alimentation du rep D
+===============================================================================
+Tous les bons de commande validés par un chef d'unité *habilité* sont enregistrés dans le repD.
+
+Le BGA doit recevoir le bon de commande pour faire la DA dans Chorus. 
+En général, moins de 15 jours après la saisie dans Chorus, le BGA reçoit un numéro d'EJ qu'il reporte *à la main* dans Sucombe.
+Dès lors ce N° d'EJ apparait dans le rep D.
+
+le TDM édite les constats dans Sucombe. Le montant et la date sont enregistrés dans le rep D.
+
+Le BGA reçoit les constats et saisie dans Sucombe la date d'envoi au CGF.
+
+Par la suite, le BGA reporte dans Sucombe les dates des mandats et les montants mais cette information n'est pas systématiquement saisie.
+Il semble que le rep D ne soit pas la principale base du suivi des paiements. 
+
+Situations de commandes  qui s'écartent du processus normal de traitement
+===============================================================================
+Le chef d'unité peut valider un bon de commande dans Sucombe mais ne pas donner suite. 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Le bon de commande ne parvient pas au BGA et au prestataire. Il reste néanmoins dans Sucombe.
+
+Il n'y a pas de règle systématique pour identifier les lignes correspondantes, le plus souvent, le BGA écrit Annulé, la où devrait apparaitre l'EJ.
+
+La commande est envoyée au prestataire et au BGA mais refusée par le CGF
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Dans ce cas, le BGA ne peut pas saisir un EJ dans Sucombe.
+On se trouve dans la situation délicate d'avoir passé une commande sans engagement financier enregistré dans Chorus.
+
+Le BGA fait en sorte de régulariser la commande avec l'aide de l'unité d'origine et du destinataire, 
+titulaire d'un marché ou attributaire d'une *commande simple*.
+
+
+
+
+
 
 Traitements réalisés
 **************************
