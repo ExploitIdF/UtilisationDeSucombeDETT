@@ -60,6 +60,12 @@ titulaire d'un marché ou attributaire d'une *commande simple*.
 
 En fin d'année 2024, on avait une dizaine de commande qui avaient été constatées sans être engagées dans Chorus.
 
+Le numéro d'EJ qui est reporté dans Sucombe est erroné
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Comme le numéro d'EJ est recopié à la main, il arrive qu'il y ait des erreurs de saisie.
+
+Parfois, le CGF annule un EJ alors qu'une commande est en cours d'execution.
+Un nouvel EJ peut être attribué mais ne pas être reporté dans Sucombe.
 
 
 Traitements réalisés
