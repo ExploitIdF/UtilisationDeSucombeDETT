@@ -65,7 +65,16 @@ Le numéro d'EJ qui est reporté dans Sucombe est erroné
 Comme le numéro d'EJ est recopié à la main, il arrive qu'il y ait des erreurs de saisie.
 
 Parfois, le CGF annule un EJ alors qu'une commande est en cours d'execution.
-Un nouvel EJ peut être attribué mais ne pas être reporté dans Sucombe.
+Un nouvel EJ peut être attribué mais ne pas être immédiatement reporté dans Sucombe.
+
+Le BGA fait des efforts pour détecter ces anomalies et les corriger pour permettre les traitements qui mettent en jeu une liaison entre le répertoire D et le fichier des paiement jp57.
+
+Calcul des dettes et charges
+==============================
+En fin d'année, UPMM fait une liaison entre le répertoire D et le fichier des paiement Chorus (jp57) pour connaitre le niveau des paiements pour chaque commande et le comparer au montant constaté.
+
+Pour que ce calcul soit fiable, il faut que les EJ soient correctement renseignés, ce qui donne lieu à un travail de contrôle.
+
 
 
 Traitements réalisés
