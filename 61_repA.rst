@@ -15,6 +15,16 @@ Les champs que l'on a renomés et exploités sont les suivants :
 * 'payé', Montant payé
 * 'Solde' , Solde de l'EJ
 
+A quoi ça sert ?
+********************
+Comme on le voit ci-dessous, la saisie des paiements dans Sucombe n'est pas systématique.
+
+La saisie des dats d'envoie au CPCM/ CGF est elle plus systématique ?
+
+En quoi cette table apporte-elle une plus value par rapport à jp57, tables des paiements Chorus ?
+
+
+
 Traitements réalisés
 **************************
 Montants constatés et payés en 2024
