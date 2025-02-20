@@ -23,21 +23,22 @@ Les champs que l'on a renomés et exploités sont les suivants :
 A quoi sert le rep D ?
 ***************************
 Le rep D est l'un des principaux outils de suivi du budget. 
-Les fluides et certaines dépenses ne sont pas suivi dans Sucombe mais la plus grande partie s'y trouve.
+Les fluides et certaines dépenses ne sont pas suivis dans Sucombe, mais la plus grande partie des dépenses s'y trouve.
 
 Etapes des saisies dans Sucombe qui contribuent à l'alimentation du rep D
 ===============================================================================
 Tous les bons de commande validés par un chef d'unité *habilité* sont enregistrés dans le repD.
 
-Le BGA doit recevoir le bon de commande pour faire la DA dans Chorus. 
+Le BGA doit recevoir par mail le scan du bon de commande signé, pour faire la DA dans Chorus. 
 
 En général, moins de 15 jours après la saisie dans Chorus, le BGA reçoit un numéro d'EJ qu'il reporte *à la main* dans Sucombe.
 Dès lors ce N° d'EJ apparait dans le rep D.
 
 L'agent qui suit l'une des prestations qui composent la commande (un TDM par exemple)  édite un constat dans Sucombe. 
-Le montant et la date du constat sont enregistrés dans le rep D.
+Le montant et la date du constat sont enregistrés dans le rep D  (La date du constat = date de fin de travaux).
 
-Le BGA reçoit le constat et saisie dans Sucombe la date d'envoi au CGF.
+Le BGA reçoit le constat **signé** et saisie dans Sucombe la date d'envoi au CGF.
+Cette date figure dans la  colonne "date de réception" sur le REPD.
 
 Par la suite, le BGA reporte dans Sucombe les dates des mandats et les montants mais cette information n'est pas systématiquement saisie.
 Il semble que Sucombe (le rep D) ne soit pas la principale base du suivi des paiements. 
@@ -48,7 +49,8 @@ Le chef d'unité peut valider un bon de commande dans Sucombe mais ne pas donner
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Le bon de commande ne parvient ni au BGA ni au prestataire. Il reste néanmoins dans Sucombe et figure dans le rep D.
 
-Il n'y a pas de règle systématique pour identifier les lignes correspondantes, le plus souvent, le BGA écrit Annulé, la où devrait apparaitre l'EJ.
+Il n'y a pas de règle systématique pour identifier les lignes correspondantes, le plus souvent, 
+le BGA écrit Annulé, après consultation de l'unité/pctt, là où devrait apparaitre l'EJ.
 
 La commande est envoyée au prestataire et au BGA mais refusée par le CGF
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
