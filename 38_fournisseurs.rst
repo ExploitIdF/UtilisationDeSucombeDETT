@@ -1,11 +1,10 @@
-Fournisseurs
-##################
+Fournisseurs 2023-24
+#########################
 La base Sucombe contient une table des fournisseurs qui permet de calculer les montants engagés par fournisseur et par marché.  
 La même entreprise est parfois représentée par plusieurs lignes de la table, avec des dénominations proches et parfois même identiques (SATELEC).  
 
 La duplication correspond le plus souvent à des marchés différents dont le renouvellement d'un marché.  
 Cette duplication n'est cependant pas systématique.
-
 
 On indique ci-dessous les montants d'engagements annuels moyens pour les années 2023 & 2024.
 
