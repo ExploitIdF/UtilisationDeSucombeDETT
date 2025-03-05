@@ -13,7 +13,7 @@ Le choix de s'appuyer sur une telle application peut rendre le travail plus faci
 Pour les pénalités de retard, il existe un formulaire non obligatoire que l'on pourrait utiliser. 
 https://www.economie.gouv.fr/files/directions_services/daj/marches_publics/formulaires/EXE/imprimes_exe/EXE13.doc
 
-Pour faciliter le travail des TDM, les formulaires établis pourraient être classés et partagés sur RESANA, afin de pouvoir être réutilisés quand les mêmes circonstances se reproduisent.
+Pour faciliter le travail des TDM, les formulaires établis pourraient être classés et partagés sur RESANA, afin de pouvoir être réutilisés quand les mêmes circonstances se reproduisent. La liste des modèles aurait besoin d'être administrée par UPMM, mais cela représente peut être moins de complexité que la solution de l'application présentée ci-dessous.
 
 
 Actions à réaliser par le TDM sur l'application :
