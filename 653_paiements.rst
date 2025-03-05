@@ -28,6 +28,6 @@ Calcul par le fichier des engagements jp51 :
    LFI,3585,925,1126,1357,921,2774,1668,1544,1172,1396,2726,6791,25985
    Total,3844,988,1147,1641,1125,2996,2444,2009,1589,2113,3640,11105,34641
 
-Dans le fichiers des paiements, certains paiements des 30 et 31/ sont absents ...
+Dans le fichiers des paiements(jp57), certains paiements des 30 et 31/12 sont absents ...
 
 
