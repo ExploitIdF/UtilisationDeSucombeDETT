@@ -18,3 +18,17 @@ La base contient des états comme **Annulé** dont il n'est pas tenu compte.
 
 Cela permet de faire le tableau croisé suivant :
 
+.. csv-table::
+   :header:  Unitée,Commandé,Constatée,Préparé
+   :widths: 40, 20,20,20
+   :width: 80%
+    
+    PCTT Est,896,55,34
+    PCTT Nord,600,0,795
+    PCTT Ouest,1444,51,850
+    PCTT Sud,354,27,54
+    UCTIR,32,0,0
+    UIRC,304,8,51
+    UOIT,17,7,0
+    UPMM,611,115,0
+
