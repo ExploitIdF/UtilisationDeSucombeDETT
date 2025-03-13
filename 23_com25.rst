@@ -4,22 +4,22 @@ Exploitation de la baseSucombe du 12/03/2025
 
 Suivi des commandes
 ==============================
-Le répertoire D nous renseigne sur les commandes qui ont été validées au niveau des chefs d'unité et envoyées au BGA.
-Il est cependant possible d'exploiter la base de donnée Sucombe pour accéder aux commandes en préparation.
+Le répertoire D  renseigne sur les commandes qui ont été validées au niveau des chefs d'unités et envoyées au BGA.
+Il est cependant possible d'exploiter la base de données Sucombe pour accéder aux commandes en préparation.
 
-La table proposition_prestation contient les prestations saisies par les agents en vue d'être proposée aux chefs d'unités.  
+La table proposition_prestation contient les prestations saisies par les agents en vue d'être proposées aux chefs d'unités.  
 Le champ prop_pre_etat permet de distinguer 3 catégories :
 
 * les prestations validées au niveau du TDM (ou autre agent), dites **Préparé**
 * les prestations validées par le chef d'unité, dites **Commandé**
 * les prestations constatées partiellement ou totalement, dites **Constaté**
 
-La base contient des états comme **Annulé** dont il n'est pas tenu compte.
+La base contient aussi des états comme **Annulé** dont il n'est pas tenu compte dans cette analyse.
 
-Cela permet de faire le tableau croisé suivant :
+La répartition par unitée et par état est présentée dans le tableau croisé suivant :
 
 .. csv-table::
-   :header:  Unitée,Commandé,Constaté,Préparé
+   :header:  Unitée\k€,Commandé,Constaté,Préparé
    :widths: 40, 20,20,20
    :width: 80%
     
