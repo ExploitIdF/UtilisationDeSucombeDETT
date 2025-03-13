@@ -19,7 +19,7 @@ La base contient des états comme **Annulé** dont il n'est pas tenu compte.
 Cela permet de faire le tableau croisé suivant :
 
 .. csv-table::
-   :header:  Unitée,Commandé,Constatée,Préparé
+   :header:  Unitée,Commandé,Constaté,Préparé
    :widths: 40, 20,20,20
    :width: 80%
     
