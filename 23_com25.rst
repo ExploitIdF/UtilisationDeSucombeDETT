@@ -16,10 +16,10 @@ Le champ prop_pre_etat permet de distinguer 3 catégories :
 
 La base contient aussi des états comme **Annulé** dont il n'est pas tenu compte dans cette analyse.
 
-La répartition par unitée et par état est présentée dans le tableau croisé suivant :
+La répartition par unité et par état est présentée dans le tableau croisé suivant :
 
 .. csv-table::
-   :header:  Unitée\\k€,Commandé,Constaté,Préparé
+   :header:  Unité \\ k€,Commandé,Constaté,Préparé
    :widths: 40, 20,20,20
    :width: 80%
     
@@ -32,6 +32,6 @@ La répartition par unitée et par état est présentée dans le tableau croisé
     UOIT,17,7,0
     UPMM,611,115,0
 
-On constate que les PCTT Nord et Ouest ont un volume de commandes en préparation important mais l'interprétation n'est pas évidente.
-il pourrait s'agir de prestations abandonnées mais non encore déclarées comme telles dans Sucombe.
+On constate que les PCTT Nord et Ouest ont un volume de commandes en préparation important, mais l'interprétation n'est pas évidente.
+il pourrait s'agir de prestations abandonnées, mais non encore déclarées comme telles dans Sucombe.
 
