@@ -19,7 +19,7 @@ La base contient aussi des états comme **Annulé** dont il n'est pas tenu compt
 La répartition par unitée et par état est présentée dans le tableau croisé suivant :
 
 .. csv-table::
-   :header:  Unitée\k€,Commandé,Constaté,Préparé
+   :header:  Unitée\\k€,Commandé,Constaté,Préparé
    :widths: 40, 20,20,20
    :width: 80%
     
