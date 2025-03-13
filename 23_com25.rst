@@ -32,3 +32,6 @@ Cela permet de faire le tableau croisé suivant :
     UOIT,17,7,0
     UPMM,611,115,0
 
+On constate que les PCTT Nord et Ouest ont un volume de commandes en préparation important mais l'interprétation n'est pas évidente.
+il pourrait s'agir de prestations abandonnées mais non encore déclarées comme telles dans Sucombe.
+
