@@ -151,3 +151,26 @@ Les paiements de jp57 sont presque toujours liés à une ligne de type **Réduct
 On a observé un écart de 30 lignes sur les deux derniers jours de l'années, mais la raison est peut être que le fichier jp57 n'était pas complet.
 
 Comme cela concerne des paiements importants, la différence d'estimation des paiements entre les deux fichiers est de 2,5M€.
+
+Transition entre l'année N et l'année N+1
+***********************************************
+Les opérations d'engagement ne sont pas enregistrées pendant les premiers jours de l'année.
+En 2024, les engagements sont enregistrées comptablement à partir du 16 janvier, mais en 2025 le premier engagement n'est enregistré qu'en février.
+En fin d'année, des engagements sont enregistrés jusqau'au 31 décembre. 
+
+Les opérations de paiement ne sont comptabilisées qu'à partir du 10 janvier environ et jusqu'au 31 décembre.
+Les opérations de paiement qui sont réalisés dans les 10 derniers jours de décembre sont réparties entre les années N et N+1.
+
+Pour les paiements, on compte dans l'année N des paiements dont la *date comptable* est le 30 décembre. 
+Cependant, des paiements dont la *date comptable* est le 20 décembre sont comptés dans l'année N+1.
+
+Même si le paiement est comptabilisé dans l'année N+1, si sa date comptable est en décembre, 
+ce paiement donnera lieu à une réduction d'engagement apparaissant dans le journal des engagements (JP51) de l'année N. 
+Le montant payé n'apparait pas dans les reports d'engagements sur l'année N+1.
+
+
+
+
+
+
+
