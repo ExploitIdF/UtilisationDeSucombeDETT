@@ -37,7 +37,7 @@ Dès lors ce N° d'EJ apparait dans le rep D.
 L'agent qui suit l'une des prestations qui composent la commande (un TDM par exemple)  édite un constat dans Sucombe. 
 Le montant et la date du constat sont enregistrés dans le rep D  (La date du constat = date de fin de travaux).
 
-Le BGA reçoit le constat **signé** et saisie dans Sucombe la date d'envoi au CGF.
+Le BGA reçoit le constat **signé** et il saisit dans Sucombe la date d'envoi au CGF.
 Cette date figure dans la  colonne "date de réception" sur le REPD.
 
 Par la suite, le BGA reporte dans Sucombe les dates des mandats et les montants mais cette information n'est pas systématiquement saisie.
@@ -52,32 +52,33 @@ Le bon de commande ne parvient ni au BGA ni au prestataire. Il reste néanmoins 
 Il n'y a pas de règle systématique pour identifier les lignes correspondantes, le plus souvent, 
 le BGA écrit Annulé, après consultation de l'unité/pctt, là où devrait apparaitre l'EJ.
 
-La commande est envoyée au prestataire et au BGA mais refusée par le CGF
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+La commande est envoyée au prestataire et au BGA, mais elle est refusée par le CGF
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Dans ce cas, le BGA ne peut pas saisir un EJ dans Sucombe et le communiquer au prestataire.
 On se trouve dans la situation délicate d'avoir passé une commande sans engagement financier enregistré dans Chorus.
 
 Le BGA fait en sorte de régulariser la commande avec l'aide de l'unité d'origine et du destinataire, 
 titulaire d'un marché ou attributaire d'une *commande simple*.
 
-En fin d'année 2024, on avait une dizaine de commande qui avaient été constatées sans être engagées dans Chorus.
+En fin d'année 2024, on avait une dizaine de commandes qui avaient été constatées sans être engagées dans Chorus.
 
 Le numéro d'EJ qui est reporté dans Sucombe est erroné
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Comme le numéro d'EJ est recopié à la main, il arrive qu'il y ait des erreurs de saisie.
+Comme le numéro d'EJ est recopié à la main^par le BGA, il arrive qu'il y ait des erreurs de saisie.
 
 Parfois, le CGF annule un EJ alors qu'une commande est en cours d'execution.
-Un nouvel EJ peut être attribué mais ne pas être immédiatement reporté dans Sucombe.
+Un nouvel EJ peut être attribué, mais ne pas être immédiatement reporté dans Sucombe.
 
-Le BGA fait des efforts pour détecter ces anomalies et les corriger pour permettre les traitements qui mettent en jeu une liaison entre le répertoire D et le fichier des paiement jp57.
+Le BGA fait des efforts pour détecter ces anomalies et les corriger.
+L'exactitude de l'EJ reporté est nécessaire pour permettre les traitements qui mettent en jeu une liaison 
+entre le répertoire D et le fichier des paiement jp57.
 
 Calcul des dettes et charges
 ==============================
-En fin d'année, UPMM fait une liaison entre le répertoire D et le fichier des paiement Chorus (jp57) pour connaitre le niveau des paiements pour chaque commande et le comparer au montant constaté.
+En fin d'année, UPMM fait une liaison entre le répertoire D et le fichier des paiement Chorus (jp57) pour connaitre le niveau des paiements,
+pour chaque commande, et le comparer au montant constaté.
 
 Pour que ce calcul soit fiable, il faut que les EJ soient correctement renseignés, ce qui donne lieu à un travail de contrôle.
-
-
 
 Traitements réalisés
 **************************
