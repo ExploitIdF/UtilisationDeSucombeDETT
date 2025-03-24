@@ -1,0 +1,37 @@
+Commande de l'année 2025
+##############################
+Exploitation de la baseSucombe du 12/03/2025
+
+Suivi des commandes
+==============================
+Le répertoire D  renseigne sur les commandes qui ont été validées au niveau des chefs d'unités et envoyées au BGA.
+Il est cependant possible d'exploiter la base de données Sucombe pour accéder aux commandes en préparation.
+
+La table proposition_prestation contient les prestations saisies par les agents en vue d'être proposées aux chefs d'unités.  
+Le champ prop_pre_etat permet de distinguer 3 catégories :
+
+* les prestations validées au niveau du TDM (ou autre agent), dites **Préparé**
+* les prestations validées par le chef d'unité, dites **Commandé**
+* les prestations constatées partiellement ou totalement, dites **Constaté**
+
+La base contient aussi des états comme **Annulé** dont il n'est pas tenu compte dans cette analyse.
+
+La répartition par unité et par état est présentée dans le tableau croisé suivant :
+
+.. csv-table::
+   :header:  Unité \\ k€,Commandé,Constaté,Préparé
+   :widths: 40, 20,20,20
+   :width: 80%
+    
+    PCTT Est,896,55,34
+    PCTT Nord,600,0,795
+    PCTT Ouest,1444,51,850
+    PCTT Sud,354,27,54
+    UCTIR,32,0,0
+    UIRC,304,8,51
+    UOIT,17,7,0
+    UPMM,611,115,0
+
+On constate que les PCTT Nord et Ouest ont un volume de commandes en préparation important, mais l'interprétation n'est pas évidente.
+il pourrait s'agir de prestations abandonnées, mais non encore déclarées comme telles dans Sucombe.
+
