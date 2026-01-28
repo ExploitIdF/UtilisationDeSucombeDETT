@@ -1,6 +1,6 @@
-Puisque vos fichiers sont sur **GitHub**, vous pouvez automatiser la création du PDF à chaque fois que vous mettez à jour votre documentation grâce aux **GitHub Actions**.
+sur **GitHub**, vous pouvez automatiser la création du PDF à chaque fois que vous mettez à jour votre documentation grâce aux **GitHub Actions**.
 
-C'est la méthode "zéro effort" sur le long terme : vous poussez votre code, et GitHub génère le PDF pour vous.
+vous poussez votre code, et GitHub génère le PDF pour vous.
 
 ---
 
@@ -62,8 +62,20 @@ jobs:
 * **Centralisation :** Votre documentation "source" reste sur GitHub, et vous n'avez qu'à récupérer le PDF final pour le déposer sur RESANA.
 * **Qualité constante :** Le PDF est généré dans un environnement propre, évitant les problèmes de polices de caractères ou d'extensions manquantes sur votre PC.
 
-### Petite astuce "Pro" :
 
-Si vous voulez aller encore plus loin, on peut configurer l'action pour qu'elle crée une **"Release"** GitHub automatique avec le PDF. Ainsi, vous aurez une URL fixe et permanente vers la dernière version du PDF que vous pourrez copier-coller directement dans un lien sur RESANA.
+## Conf.py
+```
+latex_elements = {
+    'preamble': r'''
+        \usepackage[utf8]{inputenc}
+        \usepackage{hyperref}
+        \hypersetup{
+            colorlinks=true,
+            linkcolor=blue,
+            filecolor=magenta,      
+            urlcolor=cyan,
+            breaklinks=true
+        }
+    ''',
+```
 
-Souhaitez-vous que je vous aide à modifier le script pour **créer automatiquement une Release** avec le PDF ?
